@@ -14,8 +14,8 @@ All times are Spain Time (CEST)
 | 13.30 - 14.00       | Keynote: "Juggling research and services in bioinformatics"                                     | Alexandre Bonvin                                                      |
 | 14.00 - 15.20       | _Lunch break_                                                                                     |                                                                       |
 | 15.20 - 15.30       | _Settle back in_                                                                                  |                                                                       |
-| 15.30 - 16.00       | Whitehead Institute as an established bioinformatics core facility                              | George Bell                                                           |
-| 16.00 - 17.30       | Spectrum exercise                                                                               | Andrew Hercules, Vera Matser and George Bell                          |
+| 15.30 - 16.00       | [Whitehead Institute as an established bioinformatics core facility](D1S5WhiteheadInstitute.md)                              | George Bell                                                           |
+| 16.00 - 17.30       | [Spectrum exercise](D1S6SpectrumExercise.md)                                                                               | Andrew Hercules, Vera Matser and George Bell                          |
 
 
 ## Day 2 | 5 October 2021
@@ -23,7 +23,7 @@ All times are Spain Time (CEST)
 | TIME                | SESSION                                                                                         | TRAINER/S                                                             |
 |---------------------|-------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------|
 | 11.50 - 12.00       | _Day briefing_                                                                                    |                                                                       |
-| 12.00 - 14.00       | The service design process                                                                      | Vera Matser and Andrew Hercules                                       |
+| 12.00 - 14.00       | [The service design process](D2S1ServiceDesign.md)                                                                      | Vera Matser and Andrew Hercules                                       |
 | 14.00 - 15.20       | _Lunch break_                                                                                     |                                                                       |
 | 15.20 - 15.30       | _Settle back in_                                                                                  |                                                                       |
 | 15.30 - 16.30       | Designing and establishing core's technology needs                                              | Brent Richter, Michael Stadler and Ezgi Karaca                        |
@@ -39,7 +39,7 @@ All times are Spain Time (CEST)
 | 13.00 - 14.00       | Costing up a new service and providing costs for major projects (practical)                     | Sarah Butcher                                                         |
 | 14.00 - 15.20       | _Lunch break_                                                                                     |                                                                       |
 | 15.20 - 15.30       | _Settle back in_                                                                                  |                                                                       |
-| 15:30 - 16.30       | Data management and stewardship                                                                 | Rob Hooft and Celia van Gelder                                        |
+| 15:30 - 16.30       | [Data management and stewardship](D3S3DMDS.md)                                                                 | Rob Hooft and Celia van Gelder                                        |
 | 16.30 - 17.30       | Open discussion: strategies to manage your data from a logical and physical perspective         | Rob Hooft, Michael Stadler, Ezgi Karaca and Jordi Rambla              |
 
 
