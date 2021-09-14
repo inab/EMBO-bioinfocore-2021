@@ -53,7 +53,6 @@ All times are Spain Time (CEST)
 | 14.30 - 15.50       | Lunch break                                                                                     |                                                                       |
 | 15.50 - 16.00       | Settle back in                                                                                  |                                                                       |
 | 16.00 - 17.00       | Working with sensitive data: Ethical, Legal, and Social considerations                          | Pilar Nicolas, Brent Richter, Jordi Rambla and Michaela Th. Mayrhofer |
-| 8 October 2021      |                                                                                                 |                                                                       |
 
 
 ## Day 5 | 8 October 2021
