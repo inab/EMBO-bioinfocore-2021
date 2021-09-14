@@ -1,12 +1,12 @@
 # Table of Contents
 
-- Overview
+- [Overview](overview.md)
 - Welcome
 - Introduction
   - Course organisers
   - Course trainers
   - Participant biographies
-- Programme
+- [Programme](programme.md)
   - Day 1
   - Day 2
   - Day 3
