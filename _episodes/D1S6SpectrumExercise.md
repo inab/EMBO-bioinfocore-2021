@@ -1,3 +1,7 @@
+---
+title: "Spectrum exercise"
+---
+
 # Spectrum exercise
 # Trainers: Andrew Hercules, Vera Matser and George Bell
 

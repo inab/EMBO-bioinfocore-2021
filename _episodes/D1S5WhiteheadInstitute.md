@@ -1,3 +1,7 @@
+---
+title: "Whitehead Institute as an established bioinformatics core facility"
+---
+
 # Whitehead Institute as an established bioinformatics core facility
 # Trainer: George Bell
 

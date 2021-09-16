@@ -1,3 +1,7 @@
+---
+title: "The service design process"
+---
+
 # The service design process
 # Trainers: Vera Matser and Andrew Hercules
 

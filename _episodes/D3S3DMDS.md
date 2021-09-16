@@ -1,3 +1,7 @@
+---
+title: "Data management and stewardship"
+---
+
 # Data management and stewardship
 # Trainers: Rob Hooft and Celia van Gelder
 
