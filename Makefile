@@ -4,15 +4,20 @@
 # Settings
 MAKEFILES=Makefile $(wildcard *.mk)
 PRJDIR=$(dir $(realpath $(firstword $(MAKEFILES))))
-INDOCKER := $(shell grep 'docker\|podman' /proc/1/cgroup)
-ifeq (,$(INDOCKER))
-  JEKYLL := jekyll
+# Giving a self-detection chance
+ifeq (,${INDOCKER})
+  INDOCKER := $(shell grep 'docker\|podman' /proc/1/cgroup)
 else
+  INDOCKER := ${INDOCKER}
+endif
+HOSTTIMEZONE := $(shell cat /etc/timezone)
+ifeq (,$(HOSTTIMEZONE))
+  HOSTTIMEZONE := Europe/Madrid
+endif
+ifeq (,$(INDOCKER))
   JEKYLL := bundle config --local set path .vendor/bundle && bundle install && bundle update && bundle exec jekyll
-  HOSTTIMEZONE := $(shell cat /etc/timezone)
-  ifeq (,$(HOSTTIMEZONE))
-    HOSTTIMEZONE := Europe/Madrid
-  endif
+else
+  JEKYLL := jekyll
 endif
 JEKYLL_DOCKER_IMG=jekyll/jekyll
 #JEKYLL_DOCKER_IMG=jekyll/builder
@@ -56,21 +61,21 @@ endif
 ## docker-serve     : use docker to build the site
 docker-serve :
 	-docker run --rm -it -v ${PRJDIR}:/srv/jekyll -e TZ=${HOSTTIMEZONE} -p 127.0.0.1:4000:4000 ${JEKYLL_DOCKER_IMG}:${JEKYLL_VERSION} make serve
-	docker run --rm -it -v ${PRJDIR}:/srv/jekyll -e TZ==${HOSTTIMEZONE} ${JEKYLL_DOCKER_IMG}:${JEKYLL_VERSION} chown -R $(shell id -u):$(shell id -g) /srv/jekyll
+	docker run --rm -it -v ${PRJDIR}:/srv/jekyll -e TZ=${HOSTTIMEZONE} ${JEKYLL_DOCKER_IMG}:${JEKYLL_VERSION} chown -R $(shell id -u):$(shell id -g) /srv/jekyll
 
 ## docker-serve     : use docker to build the site
 docker-site :
-	-docker run --rm -it -v ${PRJDIR}:/srv/jekyll -e TZ==${HOSTTIMEZONE} ${JEKYLL_DOCKER_IMG}:${JEKYLL_VERSION} make site
-	docker run --rm -it -v ${PRJDIR}:/srv/jekyll -e TZ==${HOSTTIMEZONE} ${JEKYLL_DOCKER_IMG}:${JEKYLL_VERSION} chown -R $(shell id -u):$(shell id -g) /srv/jekyll
+	-docker run --rm -it -v ${PRJDIR}:/srv/jekyll -e TZ=${HOSTTIMEZONE} ${JEKYLL_DOCKER_IMG}:${JEKYLL_VERSION} make site
+	docker run --rm -it -v ${PRJDIR}:/srv/jekyll -e TZ=${HOSTTIMEZONE} ${JEKYLL_DOCKER_IMG}:${JEKYLL_VERSION} chown -R $(shell id -u):$(shell id -g) /srv/jekyll
 
 ## podman-serve     : use podman to build the site
 podman-serve :
-	-podman run --rm -it -v ${PRJDIR}:/srv/jekyll -v ${PRJDIR}/.bundle:/usr/local/bundle -e TZ=Europe/Madrid -p 127.0.0.1:4000:4000 ${JEKYLL_DOCKER_IMG}:${JEKYLL_VERSION} /bin/bash -c 'chgrp jekyll . ; chmod g+w . ; make serve ; chgrp root . ; find . -user jekyll -exec chown -R root: {} \; ; chmod g-w .'
+	-podman run --rm -it -v ${PRJDIR}:/srv/jekyll -v ${PRJDIR}/.bundle:/usr/local/bundle -e TZ=${HOSTTIMEZONE} -e INDOCKER=yes -p 127.0.0.1:4000:4000 ${JEKYLL_DOCKER_IMG}:${JEKYLL_VERSION} /bin/bash -c 'chgrp -R jekyll . ; chmod -R g+w . ; make serve ; chgrp root . ; find . -user jekyll -exec chown -R root: {} \; ; chmod -R g-w . ; chgrp -R root .'
 	#podman run --rm -it -v ${PRJDIR}:/srv/jekyll -e TZ=Europe/Madrid ${JEKYLL_DOCKER_IMG}:${JEKYLL_VERSION} chown -R $(shell id -u):$(shell id -g) /srv/jekyll
 
 ## docker-serve     : use podman to build the site
 podman-site :
-	-podman run --rm -it -v ${PRJDIR}:/srv/jekyll -v ${PRJDIR}/.bundle:/usr/local/bundle -e TZ=Europe/Madrid ${JEKYLL_DOCKER_IMG}:${JEKYLL_VERSION} /bin/bash -c 'chgrp jekyll . ; chmod g+w . ; make site ; chgrp root . ; find . -user jekyll -exec chown -R root: {} \; ; chmod g-w .'
+	-podman run --rm -it -v ${PRJDIR}:/srv/jekyll -v ${PRJDIR}/.bundle:/usr/local/bundle -e TZ=${HOSTTIMEZONE} -e INDOCKER=yes ${JEKYLL_DOCKER_IMG}:${JEKYLL_VERSION} /bin/bash -c 'chgrp -R jekyll . ; chmod -R g+w . ; make site ; find . -user jekyll -exec chown -R root: {} \; ; chmod -R g-w . ; chgrp -R root .'
 	#podman run --rm -it -v ${PRJDIR}:/srv/jekyll -e TZ=Europe/Madrid ${JEKYLL_DOCKER_IMG}:${JEKYLL_VERSION} chown -R $(shell id -u):$(shell id -g) /srv/jekyll
 
 ## * serve            : render website and run a local server
