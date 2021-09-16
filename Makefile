@@ -3,7 +3,20 @@
 
 # Settings
 MAKEFILES=Makefile $(wildcard *.mk)
-JEKYLL=bundle config --local set path .vendor/bundle && bundle install && bundle update && bundle exec jekyll
+PRJDIR=$(dir $(realpath $(firstword $(MAKEFILES))))
+INDOCKER := $(shell grep 'docker\|podman' /proc/1/cgroup)
+ifeq (,$(INDOCKER))
+  JEKYLL := jekyll
+else
+  JEKYLL := bundle config --local set path .vendor/bundle && bundle install && bundle update && bundle exec jekyll
+  HOSTTIMEZONE := $(shell cat /etc/timezone)
+  ifeq (,$(HOSTTIMEZONE))
+    HOSTTIMEZONE := Europe/Madrid
+  endif
+endif
+JEKYLL_DOCKER_IMG=jekyll/jekyll
+#JEKYLL_DOCKER_IMG=jekyll/builder
+JEKYLL_VERSION=4.2.0
 PARSER=bin/markdown_ast.rb
 DST=_site
 
@@ -40,6 +53,26 @@ endif
 ## I. Commands for both workshop and lesson websites
 ## =================================================
 
+## docker-serve     : use docker to build the site
+docker-serve :
+	-docker run --rm -it -v ${PRJDIR}:/srv/jekyll -e TZ=${HOSTTIMEZONE} -p 127.0.0.1:4000:4000 ${JEKYLL_DOCKER_IMG}:${JEKYLL_VERSION} make serve
+	docker run --rm -it -v ${PRJDIR}:/srv/jekyll -e TZ==${HOSTTIMEZONE} ${JEKYLL_DOCKER_IMG}:${JEKYLL_VERSION} chown -R $(shell id -u):$(shell id -g) /srv/jekyll
+
+## docker-serve     : use docker to build the site
+docker-site :
+	-docker run --rm -it -v ${PRJDIR}:/srv/jekyll -e TZ==${HOSTTIMEZONE} ${JEKYLL_DOCKER_IMG}:${JEKYLL_VERSION} make site
+	docker run --rm -it -v ${PRJDIR}:/srv/jekyll -e TZ==${HOSTTIMEZONE} ${JEKYLL_DOCKER_IMG}:${JEKYLL_VERSION} chown -R $(shell id -u):$(shell id -g) /srv/jekyll
+
+## podman-serve     : use podman to build the site
+podman-serve :
+	-podman run --rm -it -v ${PRJDIR}:/srv/jekyll -v ${PRJDIR}/.bundle:/usr/local/bundle -e TZ=Europe/Madrid -p 127.0.0.1:4000:4000 ${JEKYLL_DOCKER_IMG}:${JEKYLL_VERSION} /bin/bash -c 'chgrp jekyll . ; chmod g+w . ; make serve ; chgrp root . ; find . -user jekyll -exec chown -R root: {} \; ; chmod g-w .'
+	#podman run --rm -it -v ${PRJDIR}:/srv/jekyll -e TZ=Europe/Madrid ${JEKYLL_DOCKER_IMG}:${JEKYLL_VERSION} chown -R $(shell id -u):$(shell id -g) /srv/jekyll
+
+## docker-serve     : use podman to build the site
+podman-site :
+	-podman run --rm -it -v ${PRJDIR}:/srv/jekyll -v ${PRJDIR}/.bundle:/usr/local/bundle -e TZ=Europe/Madrid ${JEKYLL_DOCKER_IMG}:${JEKYLL_VERSION} /bin/bash -c 'chgrp jekyll . ; chmod g+w . ; make site ; chgrp root . ; find . -user jekyll -exec chown -R root: {} \; ; chmod g-w .'
+	#podman run --rm -it -v ${PRJDIR}:/srv/jekyll -e TZ=Europe/Madrid ${JEKYLL_DOCKER_IMG}:${JEKYLL_VERSION} chown -R $(shell id -u):$(shell id -g) /srv/jekyll
+
 ## * serve            : render website and run a local server
 serve : lesson-md
 	${JEKYLL} serve
@@ -49,15 +82,15 @@ site : lesson-md
 	${JEKYLL} build
 
 ## * docker-serve     : use Docker to serve the site
-docker-serve :
-	docker pull carpentries/lesson-docker:latest
-	docker run --rm -it \
-		-v $${PWD}:/home/rstudio \
-		-p 4000:4000 \
-		-p 8787:8787 \
-		-e USERID=$$(id -u) \
-		-e GROUPID=$$(id -g) \
-		carpentries/lesson-docker:latest
+#docker-serve :
+#	docker pull carpentries/lesson-docker:latest
+#	docker run --rm -it \
+#		-v $${PWD}:/home/rstudio \
+#		-p 4000:4000 \
+#		-p 8787:8787 \
+#		-e USERID=$$(id -u) \
+#		-e GROUPID=$$(id -g) \
+#		carpentries/lesson-docker:latest
 
 ## * repo-check       : check repository settings
 repo-check :
