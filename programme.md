@@ -27,7 +27,7 @@ All times are Spain Time (CEST)
 | 14.00 - 15.20       | _Lunch break_                                                                                     |                                                                       |
 | 15.20 - 15.30       | _Settle back in_                                                                                  |                                                                       |
 | 15.30 - 16.30       | Designing and establishing core's technology needs                                              | Brent Richter, Michael Stadler and Ezgi Karaca                        |
-| 16.30 - 17.30       | Estimating your compute and storage needs - practical                                           | Michael Stadler and Ezgi Karaca                                       |
+| 16.30 - 17.30       | Estimating your compute and storage needs - practical                                           | Brent Richter, Michael Stadler and Ezgi Karaca                                       |
 
 
 ## Day 3 | 6 October 2021
@@ -53,6 +53,7 @@ All times are Spain Time (CEST)
 | 14.30 - 15.50       | _Lunch break_                                                                                     |                                                                       |
 | 15.50 - 16.00       | _Settle back in_                                                                                  |                                                                       |
 | 16.00 - 17.00       | Working with sensitive data: Ethical, Legal, and Social considerations                          | Pilar Nicolas, Brent Richter, Jordi Rambla and Michaela Th. Mayrhofer |
+| 17.00 - 17.30       | Select the topics for the Semi structured breakout session                          | Salvador Capella-Gutierrez and Eva Alloza |
 
 
 ## Day 5 | 8 October 2021
