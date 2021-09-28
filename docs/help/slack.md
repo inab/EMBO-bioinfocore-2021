@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Slack
-parent: Help sheets
+parent: Help corner
 nav_order: 2
 ---
 
