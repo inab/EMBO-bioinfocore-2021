@@ -74,7 +74,7 @@ PhD in Law. Senior research fellow (Public Law Department. Faculty of Law. Resea
 
 ## Rob Hooft
 ### Dutch Techcentre for Life Sciences/ELIXIR-Netherlands, NL	https://hooft.net/rob/
-<img src="/EMBO-bioinfocore-2021/assets/images/profiles/RobHooft.jpg" alt="Rob Hooft" height="100" width="100" style="border-radius:50%">
+<img src="/EMBO-bioinfocore-2021/assets/images/profiles/RobHooft.jpeg" alt="Rob Hooft" height="100" width="100" style="border-radius:50%">
 
 ## Salvador Capella-Gutierrez
 ### Barcelona Supercomputing Center - Centro Nacional de Supercomputación, ES	
