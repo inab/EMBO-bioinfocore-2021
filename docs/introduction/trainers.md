@@ -22,7 +22,7 @@ Prof. [Alfonso Valencia](https://www.bsc.es/valencia-alfonso) is ICREA research 
 
 ## Andrew Hercules
 ### EMBL-EBI, UK
-<img src="/EMBO-bioinfocore-2021/assets/images/profiles/AndrewHercules.jpg" alt="Andrew Hercules" height="100" width="100" style="border-radius:50%" align=”top” />
+<img src="/EMBO-bioinfocore-2021/assets/images/profiles/AndrewHercules.jpg" alt="Andrew Hercules" height="100" width="100" style="border-radius:50%">
 Hello! I’m [Andrew](https://www.ebi.ac.uk/about/people/andrew-hercules) and I’m the Product Design and Strategy Lead for the Open Targets team at EMBL-EBI. My primary responsibility is to help the team integrate new datasets and design new features for the Open Targets Platform and Open Targets Genetics Portal  I also coordinate other special strategy projects, including engaging with partners, roadmap planning, and measuring the impact of our research and services. Before joining EMBL-EBI, I worked in product design and web development roles at the University of London, Deloitte Digital, and the University of Toronto. I’m particularly interested in helping teams discover the benefits of design and how they can use various design practices and principles to create effective and efficient services and products. So if have specific questions about design and how it can benefit your bioinformatics services or core facility, please feel free to book a meeting in my calendar. You can also connect with me on LinkedIn.
 
 ## Brent Richter
@@ -31,11 +31,11 @@ Hello! I’m [Andrew](https://www.ebi.ac.uk/about/people/andrew-hercules) and I�
 
 ## Cath Brooksbank
 ### EMBL-EBI, UK
-<img src="/EMBO-bioinfocore-2021/assets/images/profiles/CathBrooksbank.jpg" alt="Cath Brooksbank" height="100" width="100" style="border-radius:50%" align=”top” />
+<img src="/EMBO-bioinfocore-2021/assets/images/profiles/CathBrooksbank.jpg" alt="Cath Brooksbank" height="100" width="100" style="border-radius:50%">
 
 ## Celia van Gelder
 ### Dutch Techcentre for Life Sciences/ELIXIR-Netherlands, NL	
-<img src="/EMBO-bioinfocore-2021/assets/images/profiles/CathBrooksbank.jpg" alt="Cath Brooksbank" height="100" width="100" style="border-radius:50%" align=”top” />
+<img src="/EMBO-bioinfocore-2021/assets/images/profiles/CathBrooksbank.jpg" alt="Cath Brooksbank" height="100" width="100" style="border-radius:50%">
 [Celia van Gelder](https://www.linkedin.com/in/celia-van-gelder-58883032/) is Training Programme Manager of the Dutch Techcentre for Life Sciences (DTL), which is also the Dutch node of ELIXIR (ELIXIR-NL), and she is leading the Training & Capacity Building Programme of Health-RI national infrastructure. She is a bioinformatics education manager, coordinator and trainer with extensive experience in initiating and managing bioinformatics education and training projects at institute, national and international level. Within DTL/ELIXIR-NL and Health-RI, FAIR data stewardship training activities have a prominent place, and three examples of current projects are 1) the development of the NPOS/ELIXIR data steward competency framework , 2) defining the Dutch Roadmap to professionalizing data stewardship in the context of the National Programme Open Science and 3) developing and delivering data stewardship training in the context of Helis Academy (project funded by Interreg).  She is co-lead of the ELIXIR Training Platform, that aims to build a sustainable training infrastructure in Europe and she leads the Training  & Capacity Building Work Package in the ELIXIR-CONVERGE project, that aims to connect and align ELIXIR Nodes to deliver sustainable FAIR life sciences data management services. In the global arena Celia is Chair of GOBLET, the Global Organisation for Bioinformatics Learning, Education and Training.   
 
 ## Eva Alloza
