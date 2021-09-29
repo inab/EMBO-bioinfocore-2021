@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Course Organizers
+title: Course Organisers
 parent: Introduction
 nav_order: 2
 ---
 
-# Course Organizers
+# Course Organisers
