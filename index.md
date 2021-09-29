@@ -33,11 +33,8 @@ By the end of the EMBO Practical Course, participants will have learned how to:
 On the final day of the course, the participants will develop a personal action plan to put what they have learned into practice in their own core facilities.
 
 ## Organisers
-- [Salvador Capella-Gutierrez](https://www.bsc.es/capella-gutierrez-salvador) | Barcelona Supercomputing Center (BSC), ES
-- [Cath Brooksbank](https://www.ebi.ac.uk/about/people/cath-brooksbank) | European Bioinformatics Institute (EMBL-EBI), UK
-- [Eva Alloza](https://www.linkedin.com/in/evaalloza) | Barcelona Supercomputing Center (BSC), ES
-- [Ezgi Karaca](https://www.ibg.edu.tr/research-programs/groups/karaca-lab/) | Izmir Biomedicine and Genome Center (IBG), TR
-- [Sheila Zúñiga](https://www.linkedin.com/in/sheilazt/) | INCLIVA Health Research Institute, ES
-
-## Institutions
-EMBO, EMBO press, BSC, EMBL-EBI, IBG, INCLIVA, ELIXIR-CONVERGE, INB/ELIXIR-ES, TransBioNet
+- [Salvador Capella-Gutierrez](https://www.bsc.es/capella-gutierrez-salvador), Barcelona Supercomputing Center (BSC), ES
+- [Cath Brooksbank](https://www.ebi.ac.uk/about/people/cath-brooksbank), European Bioinformatics Institute (EMBL-EBI), UK
+- [Eva Alloza](https://www.linkedin.com/in/evaalloza), Barcelona Supercomputing Center (BSC), ES
+- [Ezgi Karaca](https://www.ibg.edu.tr/research-programs/groups/karaca-lab/), Izmir Biomedicine and Genome Center (IBG), TR
+- [Sheila Zúñiga](https://www.linkedin.com/in/sheilazt/), INCLIVA Health Research Institute, ES
