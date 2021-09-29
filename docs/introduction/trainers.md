@@ -41,7 +41,7 @@ Hello! Iâ€™m [Andrew](https://www.ebi.ac.uk/about/people/andrew-hercules) and Iâ
 
 ## Celia van Gelder
 ### Dutch Techcentre for Life Sciences/ELIXIR-Netherlands, NL
-<div style="width:150px; height: 150px; border-radius:50%; background-image:url({{'assets/images/profiles/CeliavanGelder.jpg' | relative_url}}); background-size: contain; background-repeat: no-repeat; background-position: center; margin: 0px 15px 15px 0px; border: 1px solid #ddd; padding:5px"></div>
+<div style="width:150px; height: 150px; border-radius:50%; background-image:url({{'assets/images/profiles/CeliavanGelder.jpg' | relative_url}}); background-size: cover; background-repeat: no-repeat; background-position: center; margin: 0px 15px 15px 0px; border: 1px solid #ddd; padding:5px"></div>
 <img src="{{'assets/images/profiles/CeliavanGelder.jpg' | relative_url}}" alt="Celia van Gelder" height="150" width="150" style="border-radius:50%; float: left; margin: 0px 15px 15px 0px; border: 1px solid #ddd; padding:5px">
 
 
