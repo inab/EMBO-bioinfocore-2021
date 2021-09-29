@@ -22,7 +22,7 @@ By the end of the EMBO Practical Course, you should be able to:
 On the final day of the course, you will develop a personal action plan to put what they have learned into practice in their own core facilities.
 
 ## How is the course set up? 
-As you can see from the programme, live sessions will take place each day on Zoom from 8:45 am to 15:30 pm.
+As you can see from the [programme](/EMBO-bioinfocore-2021/docs/programme), live sessions will take place each day on Zoom in two slots of 2h, with a slightly change in day 4.
 
 ### Platforms
 **Slack:**	
@@ -30,19 +30,18 @@ As you can see from the programme, live sessions will take place each day on Zoo
 
 **Zoom:**	
 - Zoom will be used for our lectures, practical sessions and check-ins.  
-- Please arrive some minutes before the session so we make sure to start with no delays. A 10 minutes slot has been scheduled before the first and second slot for you to settle in and informal discussions. 
+- Please arrive some minutes before the session so we make sure to start with no delays. A 10 minute slot has been scheduled before the first and second slot for you to settle in and informal discussions. 
 - Make sure your screen name is your actual name as you registered for the course (no nicknames please). 
 - If you are having trouble connecting, take a look at the [Zoom help sheet](/EMBO-bioinfocore-2021/docs/help/zoom/). The slack channel #technical-support is also available for you to ask for help.
 - Please mute yourself when joining to avoid background noise. The trainers will let you know how best to ask questions during the session. 
 - Zoom breakout rooms will be used during some sessions. The trainers will explain more about how this will work and how to ask for help.  
 
 **Google Docs/Spreadsheets/Slides:**
-- Google utilities are often used for group editing, particularly for group projects. This handbook may provide you with links to any Google Docs you may need. 
+- Google services are often used for group editing, particularly for group projects. This handbook may provide you with links to any Google documents you may need during the course. 
 
 ## Where can I ask questions? 
 - Post any questions that arise into the #general channel in the Slack workspace.
-- The trainers will let you know how best to ask questions during the session 
-- Research-related questions can be direct messaged to trainers, although there is no guarantee they will answer them. They will not write your thesis for you, but they will help you if they can. 
+- The trainers will let you know how best to ask questions during the session. 
 - If you have any other questions please contact us on slack, either using the channel #technical-support or via direct message to the @embo.bioinfocore user. Alternatively, please email [embo.bioinfocore@bsc.es](mailto:embo.bioinfocore@bsc.es)
 
 ## Our advice for making the most of this course 
