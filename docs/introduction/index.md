@@ -26,7 +26,7 @@ As you can see from the programme, live sessions will take place each day on Zoo
 
 ### Platforms
 **Slack:**	
-- To communicate outside of live sessions and during group work time we will use Slack. Please read the [Slack help sheet](/docs/help/slack/) for more information. 
+- To communicate outside of live sessions and during group work time we will use Slack. Please read the [Slack help sheet](docs/help/slack/) for more information. 
 
 **Zoom:**	
 - Zoom will be used for our lectures, practical sessions and check-ins.  
