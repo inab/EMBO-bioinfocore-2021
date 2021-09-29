@@ -13,7 +13,7 @@ All times are Spain Time (CEST)
 
 ## Day 1 | 4 October 2021
 
-| TIME                | SESSION                                                                                         | TRAINER/S                                                             |
+| TIME CEST               | SESSION                                                                                         | TRAINER/S                                                             |
 |---------------------|-------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------|
 | 11.45 - 12.00       | _Virtual arrivals_                                                                                | All participants                                                      |
 | 12.00 - 12.05       | Welcome and introduction to the course                                                          | Salvador Capella-Gutierrez                                            |
@@ -28,7 +28,7 @@ All times are Spain Time (CEST)
 
 ## Day 2 | 5 October 2021
 
-| TIME                | SESSION                                                                                         | TRAINER/S                                                             |
+| TIME CEST                 | SESSION                                                                                         | TRAINER/S                                                             |
 |---------------------|-------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------|
 | 11.50 - 12.00       | _Day briefing_                                                                                    |                                                                       |
 | 12.00 - 14.00       | [The service design process](D2S1ServiceDesign)                                                                      | Vera Matser and Andrew Hercules                                       |
@@ -40,7 +40,7 @@ All times are Spain Time (CEST)
 
 ## Day 3 | 6 October 2021
 
-| TIME                | SESSION                                                                                         | TRAINER/S                                                             |
+| TIME CEST                | SESSION                                                                                         | TRAINER/S                                                             |
 |---------------------|-------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------|
 | 11.50 - 12.00       | _Day briefing_                                                                                    |                                                                       |
 | 12.00 - 13.00       | Costing up staff and compute requirements                                                       | Sarah Butcher                                                         |
@@ -53,7 +53,7 @@ All times are Spain Time (CEST)
 
 ## DAY 4 | 7 October 2021
 
-| TIME                | SESSION                                                                                         | TRAINER/S                                                             |
+| TIME CEST                | SESSION                                                                                         | TRAINER/S                                                             |
 |---------------------|-------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------|
 | 12.20 - 12.30       | _Day briefing_                                                                                    |                                                                       |
 | 12.30 - 13.30       | Sustainability models - how to finance your core facility                                       | Alex Sanchez                                                          |
@@ -66,7 +66,7 @@ All times are Spain Time (CEST)
 
 ## Day 5 | 8 October 2021
 
-| TIME                | SESSION                                                                                         | TRAINER/S                                                             |
+| TIME CEST                | SESSION                                                                                         | TRAINER/S                                                             |
 |---------------------|-------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------|
 | 11.50 - 12.00       | _Day briefing_                                                                                    |                                                                       |
 | 12.00 - 13.30       | Semi structured breakout                                                                        | Salvador Capella-Gutierrez and Eva Alloza with course faculty members |
@@ -75,6 +75,6 @@ All times are Spain Time (CEST)
 
 ## Post-course session | 17 November 2021
 
-| TIME                | SESSION                                                                                         | TRAINER/S                                                             |
+| TIME CEST                | SESSION                                                                                         | TRAINER/S                                                             |
 |---------------------|-------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------|
 | 16.00 - 18.00       | Selected topic by participants (TBD)                                                            |                                                                       |
