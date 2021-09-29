@@ -8,13 +8,17 @@ nav_order: 3
 # Course Trainers
 
 ## Alex Sanchez-Pla
-<img src="/EMBO-bioinfocore-2021/assets/images/profiles/AlexSanchez.jpg" alt="Alex Sanchez-Pla" height="auto" width="200" style="border-radius:50%">
+### Vall d’Hebron Research Institute and Universitat de Barcelona, ES	http://ueb.vhir.org/
+<img src="/EMBO-bioinfocore-2021/assets/images/profiles/AlexSanchez.jpg" alt="Alex Sanchez-Pla" height="100" width="100" style="border-radius:50%">
 
 ## Alexandre Bonvin
+### Utrecht University, NL	https://www.uu.nl/staff/amjjbonvin
 <img src="/EMBO-bioinfocore-2021/assets/images/profiles/AlexandreBonvin.jpg" alt="Alexandre Bonvin" height="100" width="100" style="border-radius:50%">
 
 ## Alfonso Valencia
-Prof. Alfonso Valencia is ICREA research Professor, Director of the Life Sciences Department of the Barcelona Supercomputing Center, and Director of the Spanish National Bioinformatics Institute INB/ELIXIR-ES. His research interest is the development of Computational Biology methods and their application to biomedical problems. Some of the computational methods he developed are considered pioneering work in areas such as biological text mining, protein coevolution and more recently epigenetic and disease networks. He participates in some of the key cancer related international consortia. In terms of community services, he is one of the initial promoters of what is now the ELIXIR infrastructure, founder of the Spanish Bioinformatics network and founder member and former president of ISCB the professional association of Bioinformaticians and the Executive Editor of the main journal in the field (Bioinformatics OUP).
+### Barcelona Supercomputing Center - Centro Nacional de Supercomputación, ES	
+<img src="/EMBO-bioinfocore-2021/assets/images/profiles/AlfonsoValencia.jpg" alt="Alexandre Bonvin" height="100" width="100" style="border-radius:50%">
+Prof. [Alfonso Valencia](https://www.bsc.es/valencia-alfonso) is ICREA research Professor, Director of the Life Sciences Department of the Barcelona Supercomputing Center, and Director of the Spanish National Bioinformatics Institute INB/ELIXIR-ES. His research interest is the development of Computational Biology methods and their application to biomedical problems. Some of the computational methods he developed are considered pioneering work in areas such as biological text mining, protein coevolution and more recently epigenetic and disease networks. He participates in some of the key cancer related international consortia. In terms of community services, he is one of the initial promoters of what is now the ELIXIR infrastructure, founder of the Spanish Bioinformatics network and founder member and former president of ISCB the professional association of Bioinformaticians and the Executive Editor of the main journal in the field (Bioinformatics OUP).
 
 ## Andrew Hercules
 Hello! I’m Andrew and I’m the Product Design and Strategy Lead for the Open Targets team at EMBL-EBI. My primary responsibility is to help the team integrate new datasets and design new features for the Open Targets Platform and Open Targets Genetics Portal  I also coordinate other special strategy projects, including engaging with partners, roadmap planning, and measuring the impact of our research and services. Before joining EMBL-EBI, I worked in product design and web development roles at the University of London, Deloitte Digital, and the University of Toronto. I’m particularly interested in helping teams discover the benefits of design and how they can use various design practices and principles to create effective and efficient services and products. So if have specific questions about design and how it can benefit your bioinformatics services or core facility, please feel free to book a meeting in my calendar. You can also connect with me on LinkedIn.
