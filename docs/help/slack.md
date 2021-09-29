@@ -9,7 +9,7 @@ nav_order: 2
 
 ## Joining Slack
 
-1. Please [join the Slack here](https://join.slack.com/t/embobioinfocore2021/shared_invite/zt-w8pd1ij8-CB3ge9FArVqbz0EkHpFKRw) (please use a distinguisable name so we know it’s you!), if you have problems joining please contact us (embo.bioinfocore@bsc.es).
+1. Please [join the Slack here](https://join.slack.com/t/embobioinfocore2021/shared_invite/zt-w8pd1ij8-CB3ge9FArVqbz0EkHpFKRw) (please use a distinguisable name so we know it’s you!), if you have problems joining please contact us by email to [embo.bioinfocore@bsc.es](mailto:embo.bioinfocore@bsc.es).
 2. Find your Event Invitation. Click on Join Now in your invitation email and fill in your name and username information. You will be prompted to choose a password and agree to terms and conditions.
 3. Use the app or the web version. If you are using your phone you will need to use the slack app, which can be downloaded during the process of the invitation or from the app stores. If you are using your computer, you can use the web version of slack.
 4. Please add your details and create a username, it would be best if this was your name so trainers and other participants can easily find you to communicate.  
