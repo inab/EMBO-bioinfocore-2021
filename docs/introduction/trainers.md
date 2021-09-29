@@ -8,10 +8,10 @@ nav_order: 3
 # Course Trainers
 
 ## Alex Sanchez-Pla
-![Alex picture](/EMBO-bioinfocore-2021/assets/images/profiles/AlexSanchez.jpg)
-<img src="/EMBO-bioinfocore-2021/assets/images/profiles/AlexSanchez.jpg" class="rounded-circle">
-<img src="/EMBO-bioinfocore-2021/assets/images/profiles/AlexSanchez.jpg" height="auto" width="200" style="border-radius:50%" class="rounded-circle">
+<img src="/EMBO-bioinfocore-2021/assets/images/profiles/AlexSanchez.jpg" alt="Alex Sanchez-Pla" height="auto" width="200" style="border-radius:50%">
+
 ## Alexandre Bonvin
+<img src="/EMBO-bioinfocore-2021/assets/images/profiles/AlexandreBonvin.jpg" alt="Alexandre Bonvin" height="100" width="100" style="border-radius:50%">
 
 ## Alfonso Valencia
 Prof. Alfonso Valencia is ICREA research Professor, Director of the Life Sciences Department of the Barcelona Supercomputing Center, and Director of the Spanish National Bioinformatics Institute INB/ELIXIR-ES. His research interest is the development of Computational Biology methods and their application to biomedical problems. Some of the computational methods he developed are considered pioneering work in areas such as biological text mining, protein coevolution and more recently epigenetic and disease networks. He participates in some of the key cancer related international consortia. In terms of community services, he is one of the initial promoters of what is now the ELIXIR infrastructure, founder of the Spanish Bioinformatics network and founder member and former president of ISCB the professional association of Bioinformaticians and the Executive Editor of the main journal in the field (Bioinformatics OUP).
