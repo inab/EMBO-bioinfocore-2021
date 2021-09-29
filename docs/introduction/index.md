@@ -22,7 +22,7 @@ By the end of the EMBO Practical Course, you should be able to:
 On the final day of the course, you will develop a personal action plan to put what they have learned into practice in their own core facilities.
 
 ## How is the course set up? 
-As you can see from the [programme](/EMBO-bioinfocore-2021/docs/programme), live sessions will take place each day on Zoom in two slots of 2h, with a slightly change in day 4.
+As you can see from the [programme](/EMBO-bioinfocore-2021/docs/programme), live sessions will take place each day on Zoom in two slots of 2h, with a slightly shifted schedule in day 4.
 
 ### Platforms
 **Slack:**	
