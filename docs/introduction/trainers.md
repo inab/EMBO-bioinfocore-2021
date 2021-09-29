@@ -41,7 +41,10 @@ Hello! I’m [Andrew](https://www.ebi.ac.uk/about/people/andrew-hercules) and I�
 
 ## Celia van Gelder
 ### Dutch Techcentre for Life Sciences/ELIXIR-Netherlands, NL
+<div style="width:150px; height: 150px; border-radius:50%; background-image:url({{'assets/images/profiles/CeliavanGelder.jpg' | relative_url}}); background-size: contain; background-repeat: no-repeat; background-position: center; margin: 0px 15px 15px 0px; border: 1px solid #ddd; padding:5px"></div>
 <img src="{{'assets/images/profiles/CeliavanGelder.jpg' | relative_url}}" alt="Celia van Gelder" height="150" width="150" style="border-radius:50%; float: left; margin: 0px 15px 15px 0px; border: 1px solid #ddd; padding:5px">
+
+
 [Celia van Gelder](https://www.linkedin.com/in/celia-van-gelder-58883032/) is Training Programme Manager of the Dutch Techcentre for Life Sciences (DTL), which is also the Dutch node of ELIXIR (ELIXIR-NL), and she is leading the Training & Capacity Building Programme of Health-RI national infrastructure. She is a bioinformatics education manager, coordinator and trainer with extensive experience in initiating and managing bioinformatics education and training projects at institute, national and international level. Within DTL/ELIXIR-NL and Health-RI, FAIR data stewardship training activities have a prominent place, and three examples of current projects are 1) the development of the NPOS/ELIXIR data steward competency framework , 2) defining the Dutch Roadmap to professionalizing data stewardship in the context of the National Programme Open Science and 3) developing and delivering data stewardship training in the context of Helis Academy (project funded by Interreg).  She is co-lead of the ELIXIR Training Platform, that aims to build a sustainable training infrastructure in Europe and she leads the Training  & Capacity Building Work Package in the ELIXIR-CONVERGE project, that aims to connect and align ELIXIR Nodes to deliver sustainable FAIR life sciences data management services. In the global arena Celia is Chair of GOBLET, the Global Organisation for Bioinformatics Learning, Education and Training. 
 <br style="clear:both" /> 
 
