@@ -7,7 +7,7 @@
 
   @include mq(lg) {
     margin-left: calc(
-      (100% - #{$nav-width + $content-width}) / 2 + calc(#{$nav-width} / 2)
+      (100% - #{$nav-width + $content-width}) / 2 + #{$nav-width}
     );
   }
 }
@@ -17,7 +17,7 @@
   padding-top: $gutter-spacing-sm;
   padding-bottom: $gutter-spacing-sm;
   padding-right: calc(
-    (100% - #{$nav-width + $content-width}) / 2 + calc(#{$nav-width} / 2)
+    (100% - #{$nav-width + $content-width}) / 2 + #{$nav-width}
   ) !important;
 
   @include mq(md) {
@@ -108,6 +108,10 @@
   background-image: none;
 }
 
+.icon {
+  color: $white;
+}
+
 .side-bar {
   z-index: 0;
   display: flex;
@@ -125,7 +129,7 @@
   }
 
   @include mq(lg) {
-    width: calc((100% - #{$nav-width + $content-width}) / 2 + calc(#{$nav-width} / 2));
+    width: calc((100% - #{$nav-width + $content-width}) / 2 + #{$nav-width});
     min-width: $nav-width;
   }
 }
