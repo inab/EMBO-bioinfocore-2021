@@ -3,7 +3,7 @@ layout: default
 title: Welcome
 nav_order: 2
 ---
-![MN4 BSC](assets/images/2017_BSC_Superordenador_MareNostrum 4_Barcelona Supercomputing Center.jpg)
+![MN4 BSC](/assets/images/2017_BSC_Superordenador_MareNostrum 4_Barcelona Supercomputing Center.jpg)
 _MareNostrum 4 supercomputer, Barcelona Supercomputing Center (BSC), Spain_
 
 # Welcome
