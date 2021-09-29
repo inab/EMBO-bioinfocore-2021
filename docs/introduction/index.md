@@ -26,13 +26,13 @@ As you can see from the programme, live sessions will take place each day on Zoo
 
 ### Platforms
 **Slack:**	
-- To communicate outside of live sessions and during group work time we will use Slack. Please read the [Slack help sheet](docs/help/slack/) for more information. 
+- To communicate outside of live sessions and during group work time we will use Slack. Please read the [Slack help sheet](/EMBO-bioinfocore-2021/docs/help/slack/) for more information. 
 
 **Zoom:**	
 - Zoom will be used for our lectures, practical sessions and check-ins.  
 - Please arrive some minutes before the session so we make sure to start with no delays. A 10 minutes slot has been scheduled before the first and second slot for you to settle in and informal discussions. 
 - Make sure your screen name is your actual name as you registered for the course (no nicknames please). 
-- If you are having trouble connecting, take a look at the [Zoom help sheet](/docs/help/zoom/). The slack channel #technical-support is also available for you to ask for help.
+- If you are having trouble connecting, take a look at the [Zoom help sheet](/EMBO-bioinfocore-2021/docs/help/zoom/). The slack channel #technical-support is also available for you to ask for help.
 - Please mute yourself when joining to avoid background noise. The trainers will let you know how best to ask questions during the session. 
 - Zoom breakout rooms will be used during some sessions. The trainers will explain more about how this will work and how to ask for help.  
 
