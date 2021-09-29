@@ -8,7 +8,8 @@ nav_order: 3
 # Course Trainers
 
 ## Alex Sanchez-Pla
-
+![Alex picture](/EMBO-bioinfocore-2021/assets/images/profiles/AlexSanchez.jpg)
+<img src="/EMBO-bioinfocore-2021/assets/images/profiles/AlexSanchez.jpg" class="rounded-circle">
 ## Alexandre Bonvin
 
 ## Alfonso Valencia
