@@ -10,6 +10,7 @@ nav_order: 3
 ## Alex Sanchez-Pla
 ![Alex picture](/EMBO-bioinfocore-2021/assets/images/profiles/AlexSanchez.jpg)
 <img src="/EMBO-bioinfocore-2021/assets/images/profiles/AlexSanchez.jpg" class="rounded-circle">
+<img src="/EMBO-bioinfocore-2021/assets/images/profiles/AlexSanchez.jpg" height="auto" width="200" style="border-radius:50%" class="rounded-circle">
 ## Alexandre Bonvin
 
 ## Alfonso Valencia
