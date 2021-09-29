@@ -26,13 +26,13 @@ As you can see from the programme, live sessions will take place each day on Zoo
 
 ### Platforms
 **Slack:**	
-- To communicate outside of live sessions and during group work time we will use Slack. Please read the [Slack help sheet](docs/help/slack/) for more information. 
+- To communicate outside of live sessions and during group work time we will use Slack. Please read the [Slack help sheet](/docs/help/slack/) for more information. 
 
 **Zoom:**	
 - Zoom will be used for our lectures, practical sessions and check-ins.  
 - Please arrive some minutes before the session so we make sure to start with no delays. A 10 minutes slot has been scheduled before the first and second slot for you to settle in and informal discussions. 
 - Make sure your screen name is your actual name as you registered for the course (no nicknames please). 
-- If you are having trouble connecting, take a look at the [Zoom help sheet](docs/help/zoom/). The slack channel #technical-support is also available for you to ask for help.
+- If you are having trouble connecting, take a look at the [Zoom help sheet](/docs/help/zoom/). The slack channel #technical-support is also available for you to ask for help.
 - Please mute yourself when joining to avoid background noise. The trainers will let you know how best to ask questions during the session. 
 - Zoom breakout rooms will be used during some sessions. The trainers will explain more about how this will work and how to ask for help.  
 
@@ -43,7 +43,7 @@ As you can see from the programme, live sessions will take place each day on Zoo
 - Post any questions that arise into the #general channel in the Slack workspace.
 - The trainers will let you know how best to ask questions during the session 
 - Research-related questions can be direct messaged to trainers, although there is no guarantee they will answer them. They will not write your thesis for you, but they will help you if they can. 
-- If you have any problems with accessing the course, please post them to the #technical_support Slack channel, which will be monitored by the team throughout the course (09:00-17:00). If you can’t access slack, you can email  mpujol@ebi.ac.uk or riveros@ebi.ac.uk   
+- If you have any other questions please contact us on slack, either using the channel #technical-support or via direct message to the @embo.bioinfocore user. Alternatively, please email [embo.bioinfocore@bsc.es](mailto:embo.bioinfocore@bsc.es)
 
 ## Our advice for making the most of this course 
 - Please turn off all other internet-using devices (particularly video streaming) so you get the best signal you can for the session. 
