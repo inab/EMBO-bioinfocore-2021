@@ -9,7 +9,7 @@ parent: Programme
 ## Panellists: Sheila Zuñiga, Brent Richter and Sarah Butcher
 ## Moderator: Salvador Capella-Gutierrez
 
-# Summary
+## Summary
 Open discussion regarding challenges and opportunities of core facilities and service providing in healthcare settings.
 
 ## What will you be doing?
