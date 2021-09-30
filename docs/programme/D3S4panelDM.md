@@ -14,4 +14,4 @@ Open discussion regarding data management.
 
 ## What will you be doing?
 First, panellists will shortly introduce their activities regarding data management and where they store sensitive data if it applies to their case.
-The moderator will facilitate the conversation to get their views on different aspects regarding data management. Questions made by the course participants will enrich the discussion.
+The moderator will facilitate the conversation to get their views on different aspects regarding data management. Participants are expected to take part in the conversation and to address questions of their interest to enrich the discussion.
