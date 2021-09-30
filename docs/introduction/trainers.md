@@ -68,6 +68,9 @@ Hello! I’m [Andrew](https://www.ebi.ac.uk/about/people/andrew-hercules) and I�
 
 <div style="width:150px; height: 150px; border-radius:50%; background-image:url({{'assets/images/profiles/EvaAlloza.jpg' | relative_url}}); background-size: cover; background-repeat: no-repeat; background-position: center; float: left; margin: 15px 15px 15px 0px;"></div>
 
+[Eva Alloza](https://www.linkedin.com/in/evaalloza/) is a training/communications/support officer at the coordination node of the Spanish National Bioinformatics Institute (INB), hosted by the Barcelona Supercomputing Center (BSC), which is also leading the Spanish node of ELIXIR (ELIXIR-ES). She is deeply involved in the ELIXIR Training platform, deputy Head of Node, and other ELIXIR initiatives such as Impact, Industry and the Tools platform. As part of BSC, Eva is also involved in other projects, for instance, BioExcel, EuCanImage, VEIS, DECIDER and Bioinfo4Women.
+Her background is as an agricultural engineer by UPC and UdL in Spain, where she was mainly interested in livestock breeding. Then she had the chance to pursue an MSc in Bioinformatics at Cranfield University and a master thesis in the microarray facility at the VUmc. Eva was a PhD candidate in functional genomics at Joaquin Dopazo’s lab at Principe Felipe Research Center (CIPF) about cancer genome functional organisation. She holds a Master’s degree in Scientific, Medical and Environmental Communication by Pompeu Fabra University (UPF), after which she managed the Bioinformatics Barcelona Association’s operations for five years. Eva is currently enrolled in several modules of the Executive Masters in Management of Research Infrastructures (EMMRI) by Università degli Studi di Milano-Bicocca.
+
 <br style="clear:both" />
 
 ## Ezgi Karaca
