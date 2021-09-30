@@ -17,7 +17,7 @@ All times are Spain Time (CEST)
 |---------------------|-------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------|
 | 11.45 - 12.00       | _Virtual arrivals_                                                                                | All participants                                                      |
 | 12.00 - 12.05       | Welcome and introduction to the course                                                          | Salvador Capella-Gutierrez                                            |
-| 12.05 - 13.00       | Participants' introductions, perspectives, challenges and expectations                          | Cath Brooksbank                                                       |
+| 12.05 - 13.00       | [Participants' introductions, perspectives, challenges and expectations](D1S2Challenges.md)                          | Cath Brooksbank                                                       |
 | 13.00 - 13.30       | Keynote: "How Core facilities have evolved?"                                                    | Alfonso Valencia                                                      |
 | 13.30 - 14.00       | [Keynote: "Juggling research and services in bioinformatics"](D1S4KNBonvin.md)                                     | Alexandre Bonvin                                                      |
 | 14.00 - 15.20       | _Lunch break_                                                                                     |                                                                       |
