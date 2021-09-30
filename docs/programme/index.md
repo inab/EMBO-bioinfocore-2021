@@ -8,9 +8,10 @@ has_toc: false
 
 # Programme
 
-ZOOM LINK
-_Zoom room ID:_
-_Zoom room password:_
+## How to connect to all the live sessions
+- Use this ZOOM LINK
+- _Zoom room ID:_
+- _Zoom room password:_
 
 All times are Spain Time (CEST)
 
