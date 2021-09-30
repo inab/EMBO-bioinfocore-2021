@@ -71,6 +71,8 @@ Pablo Minguez  is Miguel Servet fellow (tenure-track research position) at the G
 <br style="clear:both" />
 
 ## Ramón	Peiró-Pastor
+<div style="width:150px; height: 150px; border-radius:50%; background-image:url({{'assets/images/profiles/RamonPeiroPastor.jpg' | relative_url}}); background-size: cover; background-repeat: no-repeat; background-position: center; float: left; margin: 15px 15px 15px 0px;"></div>
+My academic background is so diverse: Licentiate (Bsc+Msc) in Geology (speciality in palaeontology) (UCM, 1989), Master (MSc) in Applied Statistics Techniques (UNED, 2001), Licentiate (BA+MA) in Social and Cultural Anthropology (UNED, 2010), and Master (MSc) in Bioinformatics and Computational Biology (UCM-SEBiot-CNIO, 2011). I have been working for more than 20 years in engineering geology and geotechnics, but I changed my professional profile in 2011, starting new professional career as bioinformatician at CBMSO (Centro de Biología Molecular Severo Ochoa), first being part of the the Bioinformatics Service and after as a member of the Genomics and NGS Service. Since 2020 I have a position in the Animal Breeding Department at CSIC-INIA (Instituto Nacional de Investigación y Tecnología Agraria y Alimentaria) where I try to assist in the bioinformatics needs of the researchers.
 <br style="clear:both" />
 
 ## Sanjay Kumar	Srikakulam
