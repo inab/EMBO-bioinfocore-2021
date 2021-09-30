@@ -48,7 +48,7 @@ All times are Spain Time (CEST)
 |---------------------|-------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------|
 | 11.50 - 12.00       | _Day briefing_                                                                                    |                                                                       |
 | 12.00 - 13.00       | Costing up staff and compute requirements                                                       | Sarah Butcher                                                         |
-| 13.00 - 14.00       | Costing up a new service and providing costs for major projects (practical)                     | Sarah Butcher                                                         |
+| 13.00 - 14.00       | [Costing up a new service and providing costs for major projects - practical](D3S2CostingUpServiceProjectPractical.md)                     | Sarah Butcher                                                         |
 | 14.00 - 15.20       | _Lunch break_                                                                                     |                                                                       |
 | 15.20 - 15.30       | _Settle back in_                                                                                  |                                                                       |
 | 15:30 - 16.30       | [Data management and stewardship](D3S3DMDS)                                                                 | Rob Hooft and Celia van Gelder                                        |
