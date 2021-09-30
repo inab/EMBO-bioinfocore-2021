@@ -19,4 +19,4 @@ The trainer will introduce his description to these questions, as well as the an
 
 ## Resources
 - Slides
-- Accompanying list of 25 questions
+- [Accompanying list of 25 questions](https://drive.google.com/file/d/1S9VmF4DjUlzrNuTNYc1quOcnVtloQ6Y4/view?usp=sharing)
