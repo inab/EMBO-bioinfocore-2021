@@ -19,6 +19,7 @@ The purpose of this session is to familiarise you with some of the items you mig
 You will divide into breakout groups and **for the first part of the exercise**, look at a facility cost template spreadsheet which has been provided for you. By changing some of the key items included, you will explore the effects on a combined chargeout figure and reflect on how the template might be adapted for your facility’s cost model.
 
 **For the second exercise** we will consider some different project scenarios. This time, you’ll be thinking about how to cost these projects for a grant.
+
 You will have 20 minutes in your breakout groups to answer the following four questions:
 - Outline the possible areas where work may be required
 - Is there enough information? What else do you need to know?
