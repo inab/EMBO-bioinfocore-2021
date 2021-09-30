@@ -14,7 +14,7 @@ Using a Google Slides-based game adapted from a popular YouTube series and quest
 ## Goal
 The goal of the exercise is to give participants an opportunity to identify some of the common challenges in managing core facilities and potential solutions that other facilities may have tried.
 
-## What will participant be doing?
+## What will the participants be doing?
 Participants will be presented with a statement and they will place their name badge on the activity board, indicating the extent to which they agree or disagree with that statement. The statements and responses are then briefly discussed within the group.
 
 ## Resources needed for the session:
