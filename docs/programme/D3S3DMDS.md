@@ -6,7 +6,7 @@ parent: Programme
 ---
 
 # Data management and stewardship
-# Trainers: Rob Hooft and Celia van Gelder
+## Trainers: Rob Hooft and Celia van Gelder
 
 ## Summary
 - FAIR data, and its influence on Data Stewardship
@@ -19,7 +19,7 @@ parent: Programme
 - Participants are aware of existing frameworks and trainings for data stewardship
 - Participants have set out their first next steps related to these topics for their own facility  (to put in their personal plan at the end of the Course)
 
-## Describe what the participant will be doing (specially for practical parts)
+## What will the participants be doing?
 - Menti to identify their current challenges
 - Interactive session
 - Wrapping up with summarizing practical next steps
