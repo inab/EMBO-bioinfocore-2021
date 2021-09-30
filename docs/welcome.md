@@ -4,13 +4,13 @@ title: Welcome
 nav_order: 2
 ---
 <!-- ![MN4 BSC](https://inab.github.io/EMBO-bioinfocore-2021/assets/images/2017_BSC_Superordenador_MareNostrum 4_Barcelona Supercomputing Center.jpg) -->
-<img src="https://inab.github.io/EMBO-bioinfocore-2021/assets/images/2017_BSC_Superordenador_MareNostrum 4_Barcelona Supercomputing Center.jpg" alt="MN4 BSC" class="center">
+<img src="https://inab.github.io/EMBO-bioinfocore-2021/assets/images/2017_BSC_Superordenador_MareNostrum 4_Barcelona Supercomputing Center.jpg" alt="MN4 BSC" class="center" style="width:80%">
 
 _MareNostrum 4 supercomputer facility, Barcelona Supercomputing Center (BSC), Spain_
 
 # Welcome
 
-Dear participants, 
+Dear participants,
 
 We are delighted to welcome you to the EMBO Practical Course "Research to service: Planning and running a bioinformatics core facility" in its virtual edition, as the original course can not be held in the Barcelona Supercomputing Center (BSC), Spain, due to the pandemic situation. We have been working on a programme that will bring together aspiring new managers of core facilities, especially those with one foot in the research camp, and managers willing to stabilize and grow their services, to learn from experienced bioinformatics core facility managers from around the world, from each other and from potential users of your services.
 
