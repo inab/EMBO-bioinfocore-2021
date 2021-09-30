@@ -38,7 +38,7 @@ All times are Spain Time (CEST)
 | 12.00 - 14.00       | [The service design process](D2S1ServiceDesign)                                                                      | Vera Matser and Andrew Hercules                                       |
 | 14.00 - 15.20       | _Lunch break_                                                                                     |                                                                       |
 | 15.20 - 15.30       | _Settle back in_                                                                                  |                                                                       |
-| 15.30 - 16.30       | Designing and establishing core's technology needs                                              | Brent Richter, Michael Stadler and Ezgi Karaca                        |
+| 15.30 - 16.30       | [Designing and establishing core's technology needs](D2S2TechnologyNeeds.md)                                              | Brent Richter, Michael Stadler and Ezgi Karaca                        |
 | 16.30 - 17.30       | Estimating your compute and storage needs - practical                                           | Brent Richter, Michael Stadler and Ezgi Karaca                                       |
 
 
