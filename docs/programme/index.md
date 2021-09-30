@@ -52,7 +52,7 @@ All times are Spain Time (CEST)
 | 14.00 - 15.20       | _Lunch break_                                                                                     |                                                                       |
 | 15.20 - 15.30       | _Settle back in_                                                                                  |                                                                       |
 | 15:30 - 16.30       | [Data management and stewardship](D3S3DMDS)                                                                 | Rob Hooft and Celia van Gelder                                        |
-| 16.30 - 17.30       | [Open discussion: strategies to manage your data from a logical and physical perspective](D3S4panelDM.md)         | Rob Hooft, Michael Stadler, Ezgi Karaca and Jordi Rambla              |
+| 16.30 - 17.30       | Open discussion: [strategies to manage your data from a logical and physical perspective](D3S4panelDM.md)         | Rob Hooft, Michael Stadler, Ezgi Karaca and Jordi Rambla              |
 
 
 ## DAY 4 | 7 October 2021
