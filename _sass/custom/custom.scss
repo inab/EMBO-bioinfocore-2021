@@ -280,10 +280,11 @@
 
 .footer-logo {
   max-height: 50px;
-  margin-top: 20px;
+  max-width: 175px;
   margin-right: 20px;
 }
 
 .footer-logo-link {
   background-image: none;
+  vertical-align: middle;
 }
