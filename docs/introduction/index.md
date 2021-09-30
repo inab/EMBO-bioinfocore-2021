@@ -33,7 +33,7 @@ As you can see from the [programme](/EMBO-bioinfocore-2021/docs/programme), live
 - Please arrive some minutes before the session so we make sure to start with no delays. A 10 minute slot has been scheduled before the first and second slot for you to settle in and informal discussions. 
 - Make sure your screen name is your actual name as you registered for the course (no nicknames please). 
 - If you are having trouble connecting, take a look at the [Zoom help sheet](/EMBO-bioinfocore-2021/docs/help/zoom/). The slack channel #technical-support is also available for you to ask for help.
-- Please mute yourself when joining to avoid background noise. The trainers will let you know how best to ask questions during the session. Nevertheless, we recommend you using the _hand rise_ option in the reactions panel to avoid overlapping.  
+- To avoid background noise, you will be automatically muted when joining the plenary room and the breakout rooms. The trainers will let you know how best to ask questions during the session. Nevertheless, we recommend you using the _hand rise_ option in the reactions panel to avoid overlapping.  
 - Zoom breakout rooms will be used during some sessions. The trainers will explain more about how this will work and how to ask for help.  
 
 **Google Docs/Spreadsheets/Slides:**
