@@ -4,7 +4,7 @@ title: Welcome
 nav_order: 2
 ---
 <!-- ![MN4 BSC](https://inab.github.io/EMBO-bioinfocore-2021/assets/images/2017_BSC_Superordenador_MareNostrum 4_Barcelona Supercomputing Center.jpg) -->
-<img src="https://inab.github.io/EMBO-bioinfocore-2021/assets/images/2017_BSC_Superordenador_MareNostrum 4_Barcelona Supercomputing Center.jpg" alt="MN4 BSC" width="70%" class="center">
+<img src="https://inab.github.io/EMBO-bioinfocore-2021/assets/images/2017_BSC_Superordenador_MareNostrum 4_Barcelona Supercomputing Center.jpg" alt="MN4 BSC" class="center">
 
 _MareNostrum 4 supercomputer facility, Barcelona Supercomputing Center (BSC), Spain_
 
