@@ -37,7 +37,7 @@ As you can see from the [programme](/EMBO-bioinfocore-2021/docs/programme), live
 - Zoom breakout rooms will be used during some sessions. The trainers will explain more about how this will work and how to ask for help.  
 
 **Google Docs/Spreadsheets/Slides:**
-- Google services are often used for group editing, particularly for group projects. This handbook may provide you with links to any Google documents you may need during the course. 
+- Google suit of tools will be often used for group editing, particularly for group projects. This handbook may provide you with links to any Google documents you may need during the course. 
 
 ## Where can I ask questions? 
 - Post any questions that arise into the #general channel in the Slack workspace.
