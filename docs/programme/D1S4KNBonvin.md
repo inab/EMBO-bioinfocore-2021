@@ -11,8 +11,8 @@ parent: Programme
 ## Summary
 In this keynote talk, Alexandre Bonvin will reflect on ~15 years of developing structural bioinformatics software and providing web portals for their use, with all the aspects and challenges of building and supporting a worldwide community of users and provisioning the resources to offer such services. 
 
- <!-- ## Resources:
- - Slides -->
+ <!-- ## Resources: -->
+ <!-- - Slides -->
 
 ## Additional supporting material or further reading
 https://www.wenmr.eu
