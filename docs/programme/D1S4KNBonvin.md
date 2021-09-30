@@ -15,6 +15,6 @@ In this keynote talk, Alexandre Bonvin will reflect on ~15 years of developing s
  <!-- - Slides -->
 
 ## Additional supporting material or further reading
-https://www.wenmr.eu
-https://wenmr.science.uu.nl
-https://www.frontiersin.org/articles/10.3389/fmolb.2021.729513/full
+- [WeNMR A worldwide e-Infrastructure for NMR and Structural Biology](https://www.wenmr.eu)
+- [Utrecht Biomolecular Interactions software portal](https://wenmr.science.uu.nl)
+- Honorato Rodrigo V., Koukos Panagiotis I., Jiménez-García Brian, Tsaregorodtsev Andrei, Verlato Marco, Giachetti Andrea, Rosato Antonio, Bonvin Alexandre M. J. J. _Structural Biology in the Clouds: The WeNMR-EOSC Ecosystem_. Frontiers in Molecular Biosciences,8, 2021. [DOI:10.3389/fmolb.2021.729513](https://www.frontiersin.org/articles/10.3389/fmolb.2021.729513/full)
