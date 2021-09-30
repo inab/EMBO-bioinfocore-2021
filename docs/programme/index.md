@@ -74,7 +74,7 @@ All times are Spain Time (CEST)
 |---------------------|-------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------|
 | 11.50 - 12.00       | _Day briefing_                                                                                    |                                                                       |
 | 12.00 - 13.30       | Semi structured breakout                                                                        | Salvador Capella-Gutierrez and Eva Alloza with course faculty members |
-| 13.30 - 14.00       | [Revisit challenges and expectations. Select topic for post-course session. Wrap up and feedback](D5S2RevisitingWrapUp.md) | Salvador Capella-Gutierrez and Eva Alloza                             |
+| 13.30 - 14.00       | [Revisit challenges and expectations. <br> Select topic for post-course session. Wrap up and feedback](D5S2RevisitingWrapUp.md) | Salvador Capella-Gutierrez and Eva Alloza                             |
 
 
 ## Post-course session | 17 November 2021
