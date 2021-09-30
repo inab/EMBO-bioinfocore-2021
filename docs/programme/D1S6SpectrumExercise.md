@@ -17,5 +17,5 @@ The goal of the exercise is to give participants an opportunity to identify some
 ## What will the participants be doing?
 Participants will be presented with a statement and they will place their name badge on the activity board, indicating the extent to which they agree or disagree with that statement. The statements and responses are then briefly discussed within the group.
 
-## Resources needed for the session:
+## Resources needed for the session
 - [Activity board](https://docs.google.com/presentation/d/1t4Sbo0CPbtcfNXfQn71TwGlZuMjPdH1dXA_lvnIbUZ8/edit?usp=sharing): access to the Google Slides where participants can participate and respond.
