@@ -21,6 +21,8 @@ nav_order: 2
 
 <div style="width:150px; height: 150px; border-radius:50%; background-image:url({{'assets/images/profiles/CathBrooksbank.jpg' | relative_url}}); background-size: cover; background-repeat: no-repeat; background-position: center; float: left; margin: 15px 15px 15px 0px;"></div>
 
+[Cath](https://www.ebi.ac.uk/about/people/cath-brooksbank) joined EMBL-EBI in 2002 to develop the outreach programme, and extended her responsibilities to include [training](https://www.ebi.ac.uk/training/) in 2006. Her team now coordinates a wide-ranging portfolio of training activities reaching tens of thousands of individuals each year. She contributes to a number of international projects including CABANA (which she leads), EOSC-Life, BioExcel and CINECA. She is co-chair of the Education Committee for the International Society of Computational Biology (ISCB) and sits on the Board of Directors for ISCB. She is a member of the advisory board for the Crick African Network. Before joining EMBL-EBI, Cath spent a decade as an editor of scientific review journals, cutting her teeth with the Elsevier Trends Journals before launching Nature Reviews Cancer. Prior to that, a brief dalliance with medicine at the University of Oxford led her to seek solace in molecules in Cambridge, where she completed her PhD in biochemistry under the guidance of Robin Irvine.
+
 <br style="clear:both" />
 
 ## Eva Alloza
@@ -39,8 +41,8 @@ Her background is as an agricultural engineer by UPC and UdL in Spain, where she
 <div style="width:150px; height: 150px; border-radius:50%; background-image:url({{'assets/images/profiles/EzgiKaraca.jpg' | relative_url}}); background-size: cover; background-repeat: no-repeat; background-position: center; float: left; margin: 15px 15px 15px 0px;"></div>
 
 Ezgi Karaca is a computational structural biologist with a specialization on integrative modeling and biomolecular dynamics. Ezgi completed her bachelor (2006) and master’s degrees (2008) at the Chemical Engineering Department of Bogazici University. For her Ph.D., she joined the group of Alexandre Bonvin (Utrecht University). Her thesis was dedicated to the incorporation of various types of experimental data into the modeling of biomolecular complexes. After her Ph.D., she moved to the European Molecular Biology Laboratory Heidelberg, for carrying out her postdoctoral studies in the labs of Teresa Carlomagno (NMR) and Orsolya Barabas (X-ray Crystallography). There, she worked at the intersection of experimental and computational techniques, where she developed computational tools to translate experimental data into high-resolution structures of protein-nucleic acid machineries (2013-2016). Since May 2017, she is the principal investigator of [computational structural biology group](https://www.ibg.edu.tr/research-programs/groups/karaca-lab/) at the Izmir Biomedicine and Genome Center (IBG, Turkey). Her group is focused on characterizing the factors leading to specific biomolecular recognition. In 2020, together with her two other collogues, Ezgi established IBG’s bioinformatics core facility.
-<br style="clear:both" />
 
+<br style="clear:both" />
 
 ## Sheila Zúñiga
 ### INCLIVA Health Research Institute, ES
