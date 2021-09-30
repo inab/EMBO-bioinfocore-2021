@@ -64,7 +64,7 @@ All times are Spain Time (CEST)
 | 13.30 - 14.30       | [Core facilities close to healthcare - challenges and opportunities](D4S2panelHealthcare.md)                              | Sheila Zuñiga, Brent Richter and Sarah Butcher                        |
 | 14.30 - 15.50       | _Lunch break_                                                                                     |                                                                       |
 | 15.50 - 16.00       | _Settle back in_                                                                                  |                                                                       |
-| 16.00 - 17.00       | Working with sensitive data: Ethical, Legal, and Social considerations                          | Pilar Nicolas, Brent Richter, Jordi Rambla and Michaela Th. Mayrhofer |
+| 16.00 - 17.00       | [Working with sensitive data: <br> Ethical, Legal, and Social considerations](D4S3panelELSI.md)                          | Pilar Nicolas, Brent Richter, Jordi Rambla and Michaela Th. Mayrhofer |
 | 17.00 - 17.30       | Select the topics for the Semi structured breakout session                          | Salvador Capella-Gutierrez and Eva Alloza |
 
 
