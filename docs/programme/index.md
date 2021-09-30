@@ -48,11 +48,11 @@ All times are Spain Time (CEST)
 |---------------------|-------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------|
 | 11.50 - 12.00       | _Day briefing_                                                                                    |                                                                       |
 | 12.00 - 13.00       | Costing up staff and compute requirements                                                       | Sarah Butcher                                                         |
-| 13.00 - 14.00       | [Costing up a new service and providing costs</br>for major projects - practical](D3S2CostingUpServiceProjectPractical.md)                     | Sarah Butcher                                                         |
+| 13.00 - 14.00       | [Costing up a new service and providing costs </br> for major projects - practical](D3S2CostingUpServiceProjectPractical.md)                     | Sarah Butcher                                                         |
 | 14.00 - 15.20       | _Lunch break_                                                                                     |                                                                       |
 | 15.20 - 15.30       | _Settle back in_                                                                                  |                                                                       |
 | 15:30 - 16.30       | [Data management and stewardship](D3S3DMDS)                                                                 | Rob Hooft and Celia van Gelder                                        |
-| 16.30 - 17.30       | [Open discussion: strategies to manage your data</br>from a logical and physical perspective](D3S4panelDM.md)         | Rob Hooft, Michael Stadler, Ezgi Karaca and Jordi Rambla              |
+| 16.30 - 17.30       | [Open discussion: strategies to manage your data </br> from a logical and physical perspective](D3S4panelDM.md)         | Rob Hooft, Michael Stadler, Ezgi Karaca and Jordi Rambla              |
 
 
 ## DAY 4 | 7 October 2021
@@ -74,7 +74,7 @@ All times are Spain Time (CEST)
 |---------------------|-------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------|
 | 11.50 - 12.00       | _Day briefing_                                                                                    |                                                                       |
 | 12.00 - 13.30       | Semi structured breakout                                                                        | Salvador Capella-Gutierrez and Eva Alloza with course faculty members |
-| 13.30 - 14.00       | [Revisit challenges and expectations.<br> Select topic for post-course session.</br>Wrap up and feedback](D5S2RevisitingWrapUp.md) | Salvador Capella-Gutierrez and Eva Alloza                             |
+| 13.30 - 14.00       | [Revisit challenges and expectations. </br> Select topic for post-course session. </br> Wrap up and feedback](D5S2RevisitingWrapUp.md) | Salvador Capella-Gutierrez and Eva Alloza                             |
 
 
 ## Post-course session | 17 November 2021
