@@ -21,7 +21,8 @@ The whole course will have the same Zoom connection details which you can easily
 - Please arrive some minutes before the session so we make sure to start with no delays. A 10 minutes slot has been scheduled before the first and second slot for you to settle in and informal discussions.
 - If you are having trouble connecting, use the slack channel #technical_support.
 - Please turn off all other internet-using devices (particularly video streaming) so you get the best signal you can for the session.
-- Please mute yourself when joining to avoid background noise. The trainers will let you know how best to ask questions during the session. We recommend you using the _hand rise_ option in the reactions panel to avoid overlapping.
-- Zoom breakout rooms will be used during some sessions. The trainers will explain more about how this will work and how to ask for help.  
+- To avoid background noise, you will be automatically muted when joining the plenary room and the breakout rooms. The trainers will let you know how best to ask questions during the session. We recommend you using the _hand rise_ option in the reactions panel to avoid overlapping.
+- Zoom breakout rooms will be used during some sessions. The trainers will explain more about how this will work and how to ask for help.
+
 
 ## Tips and tricks
