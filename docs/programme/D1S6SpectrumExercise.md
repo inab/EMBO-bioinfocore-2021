@@ -9,13 +9,13 @@ parent: Programme
 # Trainers: Andrew Hercules, Vera Matser and George Bell
 
 ## Summary
-Interactive session introducing the topics that come up during the course.
+Using a Google Slides-based game adapted from a popular YouTube series and questions developed by George Bell, participants will identify the strengths and limitations of their core facility and participate in a group discussion about potential solutions to common challenges. Many of these topics will be covered in sessions throughout the 5-day course.
 
 ## Goal
-Allow participants to think about the position of their core facility across a range of topics by presenting them with a set of statements.
+The goal of the exercise is to give participants an opportunity to identify some of the common challenges in managing core facilities and potential solutions that other facilities may have tried.
 
-## What will you be doing?
-Participants will be presented with a statement and they will indicate the extent to which they agree with that statement (strongly agree to strongly disagree). The statements and responses are briefly discussed within the group.
+## What will participant be doing?
+Participants will be presented with a statement and they will place their name badge on the activity board, indicating the extent to which they agree or disagree with that statement. The statements and responses are then briefly discussed within the group.
 
 ## Resources needed for the session:
-google slides
+- Activity board: access to the Google Slides where participants can participate and respond.
