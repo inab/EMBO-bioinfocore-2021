@@ -48,7 +48,7 @@ As you can see from the [programme](/EMBO-bioinfocore-2021/docs/programme), live
 - Please turn off all other internet-using devices (particularly video streaming) so you get the best signal you can for the session. 
 - Carve out full days as if you were attending an onsite course. 
 - Embrace the community. There are many other trainees on this course who want to start using bioinformatics in their research, so do reach out to them.
-- Virtual learning and teaching is harder than face to face. Thre could be connection issues, technical things going wrong, people dropping out and children or pets might run in mid-way through a sentence.
+- Virtual learning and teaching is harder than face to face. There could be connection issues, technical things going wrong, people dropping out and children or pets might run in mid-way through a sentence.
 - Just remember: be patient, be caring, be kind, and we will get through this together and even with a smile on our faces.
 
 ## Code of Conduct
