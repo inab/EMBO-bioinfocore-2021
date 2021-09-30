@@ -6,7 +6,7 @@ parent: Programme
 ---
 
 # Whitehead Institute as an established bioinformatics core facility
-# Trainer: George Bell
+## Trainer: George Bell
 
 ## Summary
 What do we want to be? 25 questions to ask ourselves about our core facility.
@@ -15,7 +15,7 @@ What do we want to be? 25 questions to ask ourselves about our core facility.
 Provide guidance (in the form of questions, rather than answers) to help design our roles and that of our core facility.
 
 ## What will you be doing?
-The trainer will introduce her description to these questions, as well as the answers specific to his stablished core facility.
+The trainer will introduce his description to these questions, as well as the answers specific to his stablished core facility.
 
 ## Resources
 - Slides
