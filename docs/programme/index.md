@@ -8,6 +8,9 @@ has_toc: false
 
 # Programme
 
+ZOOM LINK
+_Zoom room ID:_
+_Zoom room password:_
 
 All times are Spain Time (CEST)
 
