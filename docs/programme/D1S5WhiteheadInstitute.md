@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Day 1 Session 6
+title: Day 1 Session 5
 nav_exclude: true
 parent: Programme
 ---
