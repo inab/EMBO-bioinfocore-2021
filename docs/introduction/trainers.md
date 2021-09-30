@@ -15,9 +15,13 @@ nav_order: 3
 <br style="clear:both" />
 
 ## Alexandre Bonvin
-### Utrecht University, NL	[https://www.uu.nl/staff/amjjbonvin](https://www.uu.nl/staff/amjjbonvin)
+### Utrecht University, NL
 
 <div style="width:150px; height: 150px; border-radius:50%; background-image:url({{'assets/images/profiles/AlexandreBonvin.jpg' | relative_url}}); background-size: cover; background-repeat: no-repeat; background-position: center; float: left; margin: 15px 15px 15px 0px;"></div>
+
+[Alexandre Bonvin](https://www.uu.nl/staff/amjjbonvin) (1964) studied Chemistry at Lausanne University, Switzerland and obtained his PhD at Utrecht University in the Netherlands (1993). After two post-doc periods at Yale University (USA) and the ETHZ (CH) he joined Utrecht University in 1998 where he was appointed full professor of computational structural biology in 2009. In 2006, he received a prestigious VICI grant from the Dutch Research Council. He was director of chemical education from February 2009 until February 2012, vice head of the Chemistry Department from 2010 until April 2012 and since September 2019 Scientific Director of the Bijvoet Centre for Biomolecular Research. He is participating to several EU projects including the BioExcel Center of Excellence in Biomolecular Simulations and the European Open Science Cloud Hub project. His work has resulted in over 225 peer-reviewed publications.
+Research within the computational structural biology group focuses on the development of reliable bioinformatics and computational approaches to predict, model and dissect biomolecular interactions at atomic level. For this, bioinformatics data, structural information and available biochemical or biophysical experimental data are combined to drive the modelling process. This is implemented and further developed in the widely used HADDOCK software for the modelling of biomolecular complexes ([http://bonvinlab.org/software](http://bonvinlab.org/software)).
+
 
 <br style="clear:both" />
 
