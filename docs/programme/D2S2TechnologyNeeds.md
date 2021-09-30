@@ -11,9 +11,9 @@ parent: Programme
 
 ## Summary 
 Three exemplary core facilities and their environments:
-- Partners HealthCare of Massachusetts General and Brigham and Women’s Hospitals
-- Friedrich Miescher Institute
-- Izmir Biomedicine and Genome Center
+- [Partners HealthCare of Massachusetts General and Brigham and Women’s Hospitals](https://international.partners.org/)
+- [Friedrich Miescher Institute](https://www.fmi.ch/)
+- [Izmir Biomedicine and Genome Center](https://www.ibg.edu.tr/)
 
 ## Goal
 Present three example core facilities with their particular technology needs, challenges, approaches and resulting successes and failures. Discuss the top three challenges in core tech design (to be discussed during the practical).
