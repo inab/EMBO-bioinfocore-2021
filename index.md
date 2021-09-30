@@ -11,7 +11,7 @@ permalink: /
 # EMBO Practical Course | Research to service: Planning and running a bioinformatics core facility
 {: .fs-9 }
 
-This EMBO Practical Course is an opportunity for aspiring and newly appointed managers of core facilities, especially those with one foot in the research camp, and those managers willing to stabilize and grow their services, to learn from experienced core facilities managers how to build a framework for the future development, resourcing, operation and impact assessment of their core services.
+This EMBO Practical Course is an opportunity for aspiring and newly appointed managers of core facilities, especially those with one foot in the research camp, and those managers willing to stabilise and grow their services, to learn from experienced core facilities managers how to build a framework for the future development, resourcing, operation and impact assessment of their core services.
 {: .fs-6 .fw-300 }
 
 ---
