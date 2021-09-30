@@ -15,7 +15,7 @@ What do we want to be? 25 questions to ask ourselves about our core facility.
 Provide guidance (in the form of questions, rather than answers) to help design our roles and that of our core facility.
 
 ## What will you be doing?
-Starting to answer these 25 questions (time permitting).
+The trainer will introduce her description to these questions, as well as the answers specific to his stablished core facility.
 
 ## Resources
 - Slides
