@@ -19,7 +19,7 @@ All times are Spain Time (CEST)
 | 12.00 - 12.05       | Welcome and introduction to the course                                                          | Salvador Capella-Gutierrez                                            |
 | 12.05 - 13.00       | Participants' introductions, perspectives, challenges and expectations                          | Cath Brooksbank                                                       |
 | 13.00 - 13.30       | Keynote: "How Core facilities have evolved?"                                                    | Alfonso Valencia                                                      |
-| 13.30 - 14.00       | Keynote: "Juggling research and services in bioinformatics"                                     | Alexandre Bonvin                                                      |
+| 13.30 - 14.00       | [Keynote: "Juggling research and services in bioinformatics"](D1S4KNBonvin.md)                                     | Alexandre Bonvin                                                      |
 | 14.00 - 15.20       | _Lunch break_                                                                                     |                                                                       |
 | 15.20 - 15.30       | _Settle back in_                                                                                  |                                                                       |
 | 15.30 - 16.00       | [Whitehead Institute as an established bioinformatics core facility](D1S5WhiteheadInstitute)                              | George Bell                                                           |
