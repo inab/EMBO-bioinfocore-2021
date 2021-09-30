@@ -6,7 +6,7 @@ parent: Programme
 ---
 
 # Spectrum exercise
-# Trainers: Andrew Hercules, Vera Matser and George Bell
+## Trainers: Andrew Hercules, Vera Matser and George Bell
 
 ## Summary
 Using a Google Slides-based game adapted from a popular YouTube series and questions developed by George Bell, participants will identify the strengths and limitations of their core facility and participate in a group discussion about potential solutions to common challenges. Many of these topics will be covered in sessions throughout the 5-day course.
