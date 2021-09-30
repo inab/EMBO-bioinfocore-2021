@@ -33,7 +33,7 @@ As you can see from the [programme](/EMBO-bioinfocore-2021/docs/programme), live
 - Please arrive some minutes before the session so we make sure to start with no delays. A 10 minute slot has been scheduled before the first and second slot for you to settle in and informal discussions. 
 - Make sure your screen name is your actual name as you registered for the course (no nicknames please). 
 - If you are having trouble connecting, take a look at the [Zoom help sheet](/EMBO-bioinfocore-2021/docs/help/zoom/). The slack channel #technical-support is also available for you to ask for help.
-- Please mute yourself when joining to avoid background noise. The trainers will let you know how best to ask questions during the session. 
+- Please mute yourself when joining to avoid background noise. The trainers will let you know how best to ask questions during the session. Nevertheless, we recommend you using the _hand rise_ option in the reactions panel to avoid overlapping.  
 - Zoom breakout rooms will be used during some sessions. The trainers will explain more about how this will work and how to ask for help.  
 
 **Google Docs/Spreadsheets/Slides:**
@@ -41,14 +41,14 @@ As you can see from the [programme](/EMBO-bioinfocore-2021/docs/programme), live
 
 ## Where can I ask questions? 
 - Post any questions that arise into the #general channel in the Slack workspace.
-- The trainers will let you know how best to ask questions during the session. 
+- The trainers will let you know how best to ask questions during the session. Nevertheless, we recommend you using the _hand rise_ option in the reactions panel to avoid overlapping. 
 - If you have any other questions please contact us on slack, either using the channel #technical-support or via direct message to the @embo.bioinfocore user. Alternatively, please email [embo.bioinfocore@bsc.es](mailto:embo.bioinfocore@bsc.es)
 
 ## Our advice for making the most of this course 
 - Please turn off all other internet-using devices (particularly video streaming) so you get the best signal you can for the session. 
 - Carve out full days as if you were attending an onsite course. 
 - Embrace the community. There are many other trainees on this course who want to start using bioinformatics in their research, so do reach out to them.
-- Virtual learning and teaching is harder than face to face. There could be connection issues, technical things going wrong, people dropping out and children or pets might run in mid-way through a sentence.
+- Virtual learning and teaching is harder than face to face. Thre could be connection issues, technical things going wrong, people dropping out and children or pets might run in mid-way through a sentence.
 - Just remember: be patient, be caring, be kind, and we will get through this together and even with a smile on our faces.
 
 ## Code of Conduct
