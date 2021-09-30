@@ -9,9 +9,9 @@ has_toc: false
 # Programme
 
 ## How to connect to all the live sessions
-- Use this ZOOM LINK
-- _Zoom room ID:_
-- _Zoom room password:_
+- **Use this [ZOOM LINK](https://rediris.zoom.us/j/89625617864?pwd=Mis3OThHa1V5NEFGSHVVQXU1eTJHQT09)**
+- _Zoom meeting ID:_ 896 2561 7864
+- _Zoom meeting passcode:_810919
 
 All times are Spain Time (CEST)
 
