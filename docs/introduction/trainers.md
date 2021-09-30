@@ -53,6 +53,8 @@ Hello! Iâ€™m [Andrew](https://www.ebi.ac.uk/about/people/andrew-hercules) and Iâ
 
 <div style="width:150px; height: 150px; border-radius:50%; background-image:url({{'assets/images/profiles/CathBrooksbank.jpg' | relative_url}}); background-size: cover; background-repeat: no-repeat; background-position: center; float: left; margin: 15px 15px 15px 0px;"></div>
 
+[Cath](https://www.ebi.ac.uk/about/people/cath-brooksbank) joined EMBL-EBI in 2002 to develop the outreach programme, and extended her responsibilities to include [training](https://www.ebi.ac.uk/training/) in 2006. Her team now coordinates a wide-ranging portfolio of training activities reaching tens of thousands of individuals each year. She contributes to a number of international projects including CABANA (which she leads), EOSC-Life, BioExcel and CINECA. She is co-chair of the Education Committee for the International Society of Computational Biology (ISCB) and sits on the Board of Directors for ISCB. She is a member of the advisory board for the Crick African Network. Before joining EMBL-EBI, Cath spent a decade as an editor of scientific review journals, cutting her teeth with the Elsevier Trends Journals before launching Nature Reviews Cancer. Prior to that, a brief dalliance with medicine at the University of Oxford led her to seek solace in molecules in Cambridge, where she completed her PhD in biochemistry under the guidance of Robin Irvine. 
+
 <br style="clear:both" />
 
 ## Celia van Gelder
