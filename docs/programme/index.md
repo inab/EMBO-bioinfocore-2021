@@ -65,7 +65,7 @@ All times are Spain Time (CEST)
 | 14.30 - 15.50       | _Lunch break_                                                                                     |                                                                       |
 | 15.50 - 16.00       | _Settle back in_                                                                                  |                                                                       |
 | 16.00 - 17.00       | [Working with sensitive data: <br> Ethical, Legal, and Social considerations](D4S3panelELSI.md)                          | Pilar Nicolas, Brent Richter, Jordi Rambla and Michaela Th. Mayrhofer |
-| 17.00 - 17.30       | Select the topics for the Semi structured breakout session                          | Salvador Capella-Gutierrez and Eva Alloza |
+| 17.00 - 17.30       | Select the topics for the Semi-structured breakout session                          | Salvador Capella-Gutierrez and Eva Alloza |
 
 
 ## Day 5 | 8 October 2021
@@ -73,7 +73,7 @@ All times are Spain Time (CEST)
 | TIME CEST                | SESSION                                                                                         | TRAINER/S                                                             |
 |---------------------|-------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------|
 | 11.50 - 12.00       | _Day briefing_                                                                                    |                                                                       |
-| 12.00 - 13.30       | Semi structured breakout                                                                        | Salvador Capella-Gutierrez and Eva Alloza with course faculty members |
+| 12.00 - 13.30       | [Semi-structured breakout](D5S1SemiStructuredBreakout.md)                                                                        | Salvador Capella-Gutierrez and Eva Alloza with course faculty members |
 | 13.30 - 14.00       | [Revisit challenges and expectations. <br> Select topic for post-course session. <br> Wrap up and feedback](D5S2RevisitingWrapUp.md) | Salvador Capella-Gutierrez and Eva Alloza                             |
 
 
