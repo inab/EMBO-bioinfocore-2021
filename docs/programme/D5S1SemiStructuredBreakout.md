@@ -16,7 +16,7 @@ This activity aim is to address topics of interest defined by participants that 
 
 **In the last session of day four**, participants will also vote for their preferred topics from the shared list. Faculty will prioritise the list according to available faculty and training materials. They will elaborate a final list presented to participants at the start of the semi-structured session.
 
-**The Semistructured breakout session** will run in two 40 minute slots with a 10min break in between. Every slot can have up to 3-4 breakout rooms running in parallel with a maximum of 6 participants to promote and facilitate participation. Materials and discussion minutes will be available for those that chose other topics.
+**The Semistructured breakout session** will run in two 40 minute slots with a 10 minute break in between. Every slot can have up to 3-4 breakout rooms running in parallel with a maximum of 6 participants to promote and facilitate participation. Materials and discussion minutes will be available for those that chose other topics.
 
 ## Resources needed for the session
 - [Iterative topic list suggested by participants](https://docs.google.com/spreadsheets/d/1Tk9kTFO-FqGhJHR6xK1seX32vAwODBvzG1_XbvnMoqk/edit?usp=sharing)
