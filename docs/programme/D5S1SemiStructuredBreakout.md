@@ -11,7 +11,7 @@ parent: Programme
 ## Goal
 This activity aim is to address topics of interest defined by participants that have not been tackled during the workshop or those presented in the course but would like to expand.
 
-#What will you be doing?
+## What will you be doing?
 **First**, participants will be asked to reflect on the discussions and topics tackled that day. Then, they will fill a shared list with missing topics or topics that they would like to be expanded. This process will run **iteratively every day** at the end of the last session of the day.
 
 **In the last session of day four**, participants will also vote for their preferred topics from the shared list. Faculty will prioritise the list according to available faculty and training materials. They will elaborate a final list presented to participants at the start of the semi-structured session.
