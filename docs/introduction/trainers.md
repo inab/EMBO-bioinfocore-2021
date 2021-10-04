@@ -8,10 +8,13 @@ nav_order: 3
 # Course Trainers
 
 ## Alex Sanchez-Pla
-### Vall d’Hebron Research Institute and Universitat de Barcelona, ES	[http://ueb.vhir.org/](http://ueb.vhir.org/)
+### Vall d’Hebron Research Institute and Universitat de Barcelona, ES
 
 <div style="width:150px; height: 150px; border-radius:50%; background-image:url({{'assets/images/profiles/AlexSanchez.jpg' | relative_url}}); background-size: cover; background-repeat: no-repeat; background-position: center; float: left; margin: 15px 15px 15px 0px;"></div>
-
+Alex S. graduated in Biology (1980) and obtained a Ph.D. in Statistics (1996), at the program of Probability and Statistics, Universitat de Barcelona. He obtained a Master in Bioinformatics (2005) by the University of Manchester. 
+He is currently Professor of Statistics in the Department of Genetics Microbiology and Statistics, Universitat de Barcelona. He has been the Head of the [Statistics and Bioinformatics Unit](http://ueb.vhir.org) of the [Vall d’Hebron Research Institute](http://www.vhir.org) where he is now the Responssible of the Data Science Projects Platform.
+His research interests are methods and tools for the integrative analysis of omics data as well as other data-related aspects such as data sharing or data homogenization. He is group leader of the [Statistics and Bioinformatics Research Group](https://www.ub.edu/portal/web/dp-genmicrostat/estbioinfo) with strong links with the the [GRBio Research Group](https://grbio.upc.edu/en) and the [UB’s Biomarkers and Nutritional & Food Metabolomics research group](http://www.nutrimetabolomics.com). He is involved in several national (SAMANTHA, IMPaCT, VEIS) and European Projects (EOSC-Life).
+His teaching activities are mostly related with Statistics and Bioinformatics and he teaches courses such as Advanced Statistical Inference and Omics Data Analysis at the [MSc of Statistics and Operations Research](https://mesioupcub.masters.upc.edu/en) and the [MSc of Bionformatics and Biostatistics](https://estudios.uoc.edu/es/masters-universitarios/bioinformatica-bioestadistica/presentacion).
 <br style="clear:both" />
 
 ## Alexandre Bonvin
