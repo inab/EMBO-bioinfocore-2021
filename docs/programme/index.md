@@ -60,7 +60,7 @@ All times are Spain Time (CEST)
 | TIME CEST                | SESSION                                                                                         | TRAINER/S                                                             |
 |---------------------|-------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------|
 | 12.20 - 12.30       | _Day briefing_                                                                                    |                                                                       |
-| 12.30 - 13.30       | Sustainability models - how to finance your core facility                                       | Alex Sanchez                                                          |
+| 12.30 - 13.30       | [Sustainability models - how to finance your core facility](D4S1SustainabilityModels.md)                                       | Alex Sanchez                                                          |
 | 13.30 - 14.30       | [Core facilities close to healthcare - challenges and opportunities](D4S2panelHealthcare.md)                              | Sheila Zuñiga, Brent Richter and Sarah Butcher                        |
 | 14.30 - 15.50       | _Lunch break_                                                                                     |                                                                       |
 | 15.50 - 16.00       | _Settle back in_                                                                                  |                                                                       |
