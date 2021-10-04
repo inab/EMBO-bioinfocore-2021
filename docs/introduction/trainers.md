@@ -127,10 +127,11 @@ PhD in Law. Senior research fellow (Public Law Department. Faculty of Law. Resea
 <br style="clear:both" />
 
 ## Rob Hooft
-### Dutch Techcentre for Life Sciences/ELIXIR-Netherlands, NL	https://hooft.net/rob/
+### Dutch Techcentre for Life Sciences/ELIXIR-Netherlands, NL	
 
 <div style="width:150px; height: 150px; border-radius:50%; background-image:url({{'assets/images/profiles/RobHooft.jpeg' | relative_url}}); background-size: cover; background-repeat: no-repeat; background-position: center; float: left; margin: 15px 15px 15px 0px;"></div>
-
+[Rob Hooft](https://hooft.net/rob/) is Programme Manager Data Stewardship at the [Dutch Techcenter for Life Sciences](http://www.dtls.nl) (DTL), and Technical coordinator of the Dutch node in the [European ELIXIR infrastructure](http://www.elixir-europe.org) for life science data. He was educated as a structural chemist at Utrecht University under Professor Jan Kroon in the Bijvoet Laboratory. His major had the subject of Maximum Entropy in X-ray diffraction. Rob did his PhD studies in the same lab, on the subject of structure-activity relationships of sweet tasting compounds. For this study he developed several (statistical) methods. He spent 4 years at the EMBL in Heidelberg where he developed tools to verify the quality of protein structures. He joined the company Nonius in 1997 first as application software engineer, and later managing the R&D department.
+When Bruker AXS stopped their R&D in the Netherlands, Rob joined the Netherlands center for Bioinformatics, NBIC, as CTO for the service-directed program, and later became part of DTL. Rob has been building up a body of knowledge on FAIR research data stewardship since early 2014. Rob also represents ELIXIR relations in the [Research Data Alliance](https://www.rd-alliance.org/groups/elixir-bridging-force-ig.html).
 <br style="clear:both" />
 
 ## Salvador Capella-Gutierrez
