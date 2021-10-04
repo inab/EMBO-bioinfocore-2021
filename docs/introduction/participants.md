@@ -8,6 +8,8 @@ nav_order: 4
 # Participants biographies
 
 ## Andrew	Goodspeed
+<div style="width:150px; height: 150px; border-radius:50%; background-image:url({{'assets/images/profiles/AndreGoodspeed.png' | relative_url}}); background-size: cover; background-repeat: no-repeat; background-position: center; float: left; margin: 15px 15px 15px 0px;"></div>
+I am a bioinformatician residing in Denver, CO, USA. I have been the manager of the Bioinformatics Shared Resource at the University of Colorado Cancer Center for about 2 years. Before joining the Cancer Center, I balanced a wet lab and bioinformatics thesis exploring pharmacogenomics in bladder cancer. In my current role, I am responsible for performing management tasks (project intake, assigning tasks, tracking metrics, developing our core vision) as well as working as an analyst about two thirds of the time. Outside of work, I love to explore the outdoors by camping and mountain biking and I love to watch sports, particularly (American) football, hockey, and tennis. 
 <br style="clear:both" />
 
 ## Joseph Chao-Chung Kuo
@@ -88,6 +90,10 @@ Sergio joined the Baker Institute in January 2019 as a Research Officer in the S
 <br style="clear:both" />
 
 ## Shaun	Garnett
+<div style="width:150px; height: 150px; border-radius:50%; background-image:url({{'assets/images/profiles/ShaunGarnett.png' | relative_url}}); background-size: cover; background-repeat: no-repeat; background-position: center; float: left; margin: 15px 15px 15px 0px;"></div>
+I am currently a post-doctoral fellow at the University of Cape Town and a bioinformatician for the IDM proteomics core facility. We generate a large amount of proteomics data, and I am responsible for these datasets' quality control and functional annotation. In addition, I am developing pipelines for standardised streamlined analysis. 
+I have also been working as a bioinformatics freelancer through the DIPLOMICS Marketplace and Upwork. Freelance work has mainly encompassed the development of interactive apps to allow researchers visually access to their data. Giving clients the ability to interact with their data enables them to contribute to the analysis; this is often useful as they better understand some of the nuances within the data.  
+I plan to develop analytic solutions that will allow the accessibility of omics technologies to clinicians. There are many patients for whom we have no diagnosis. Using omics technologies, we may be able to find clues for clinicians to pursue. Additionally, personalised medicine will allow the prescription of treatments better sculpted to individuals. We have the technology to acquire the data and analysing it; making it accessible will be the next big challenge.
 <br style="clear:both" />
 
 ## Stefan	Czemmel
