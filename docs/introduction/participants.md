@@ -8,7 +8,7 @@ nav_order: 4
 # Participants biographies
 
 ## Andrew	Goodspeed
-<div style="width:150px; height: 150px; border-radius:50%; background-image:url({{'assets/images/profiles/AndreGoodspeed.png' | relative_url}}); background-size: cover; background-repeat: no-repeat; background-position: center; float: left; margin: 15px 15px 15px 0px;"></div>
+<div style="width:150px; height: 150px; border-radius:50%; background-image:url({{'assets/images/profiles/AndrewGoodspeed.png' | relative_url}}); background-size: cover; background-repeat: no-repeat; background-position: center; float: left; margin: 15px 15px 15px 0px;"></div>
 I am a bioinformatician residing in Denver, CO, USA. I have been the manager of the Bioinformatics Shared Resource at the University of Colorado Cancer Center for about 2 years. Before joining the Cancer Center, I balanced a wet lab and bioinformatics thesis exploring pharmacogenomics in bladder cancer. In my current role, I am responsible for performing management tasks (project intake, assigning tasks, tracking metrics, developing our core vision) as well as working as an analyst about two thirds of the time. Outside of work, I love to explore the outdoors by camping and mountain biking and I love to watch sports, particularly (American) football, hockey, and tennis. 
 <br style="clear:both" />
 
