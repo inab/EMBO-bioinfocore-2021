@@ -23,4 +23,6 @@ Present three example core facilities with their particular technology needs, ch
 - Learn about different core facility environments and their approaches to tackle challenges.
 
 ## Resources needed for the session
-- Slides (presented)
+- [Ezgi Karaca's presentation](https://drive.google.com/file/d/1DZD4cqyLbF-pNRqa5o8sMWEvCI32wW4T/view?usp=sharing)
+- [Brent Richter's presentation](https://drive.google.com/file/d/15HsnTSfzQQyR5O7FVhBPjgHVhxWC5SdR/view?usp=sharing)
+- [Michael Stadler's presentation](https://drive.google.com/file/d/1MrEIMzMjDNaYimsD_7YrpybBUId7-yCI/view?usp=sharing)
