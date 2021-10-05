@@ -87,10 +87,10 @@ Ezgi Karaca is a computational structural biologist with a specialization on int
 <br style="clear:both" />
 
 ## George Bell
-### Whitehead Institute, USA	[http://barc.wi.mit.edu/](http://barc.wi.mit.edu/)
+### Whitehead Institute, US
 
 <div style="width:150px; height: 150px; border-radius:50%; background-image:url({{'assets/images/profiles/GeorgeBell.jpg' | relative_url}}); background-size: cover; background-repeat: no-repeat; background-position: center; float: left; margin: 15px 15px 15px 0px;"></div>
-
+George W. Bell directs the [Bioinformatics and Research Computing group](http://barc.wi.mit.edu) at the Whitehead Institute, where he’s been working since 2001.  His five-person group collaborates, consults, and trains Whitehead researchers in bioinformatics and genomics.  He earned a PhD at the University of Arizona, where he studied developmental biology with Parker Antin in the Physiological Sciences program and got his introduction to bioinformatics.  His dissertation included the creation of the chicken embryo gene expression database, GEISHA.  Previously he earned a MS in applied physiology at Penn State University and a B.S. in biochemistry at Lehigh University.  In between these positions he taught science, primarily on the high school level, in the Democratic Republic of the Congo (with the Peace Corps), Cameroon, Saudi Arabia, and the U.S. Virgin Islands.
 <br style="clear:both" />
 
 ## Jordi Rambla
