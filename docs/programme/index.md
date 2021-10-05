@@ -51,7 +51,7 @@ All times are Spain Time (CEST)
 | 13.00 - 14.00       | [Costing up a new service and providing costs <br> for major projects - practical](D3S2CostingUpServiceProjectPractical.md)                     | Sarah Butcher                                                         |
 | 14.00 - 15.20       | _Lunch break_                                                                                     |                                                                       |
 | 15.20 - 15.30       | _Settle back in_                                                                                  |                                                                       |
-| 15:30 - 16.30       | [Data management and stewardship](D3S3FAIRDMDS.md)                                                                 | Rob Hooft and Celia van Gelder                                        |
+| 15:30 - 16.30       | [FAIR Data management and stewardship](D3S3FAIRDMDS.md)                                                                 | Rob Hooft and Celia van Gelder                                        |
 | 16.30 - 17.30       | [Open discussion: strategies to manage your data <br> from a logical and physical perspective](D3S4panelDM.md)         | Rob Hooft, Michael Stadler, Ezgi Karaca and Jordi Rambla              |
 
 
