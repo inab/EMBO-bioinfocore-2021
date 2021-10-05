@@ -30,9 +30,9 @@ You will have 20 minutes in your breakout groups to answer the following four qu
 When you return to the main room, each team will be asked to **report back in no more than 5 minutes** and we will have a group discussion about our approaches.
 
 ## Resources needed for the session
--[Facility Costing Exercise](https://drive.google.com/file/d/1mryiZ9PEhPuLyLTonWX6Tvd-hUcBXjV_/view?usp=sharing) | download pdf
--[Flying Fred Facility costing template](https://docs.google.com/spreadsheets/d/189KinUWXxTzW8AOHt1fQDSSsm-Y8gOYT/edit?usp=sharing&ouid=108667492999541889396&rtpof=true&sd=true) | download spreadsheet
-- [Grant costing Exercise](https://drive.google.com/file/d/1Ec0odKQPRa9uAp0UQ81dSyFScoLBhO3N/view?usp=sharing) | download pdf
+- [Facility Costing Exercise](https://drive.google.com/file/d/1mryiZ9PEhPuLyLTonWX6Tvd-hUcBXjV_/view?usp=sharing), download pdf
+- [Flying Fred Facility costing template](https://docs.google.com/spreadsheets/d/189KinUWXxTzW8AOHt1fQDSSsm-Y8gOYT/edit?usp=sharing&ouid=108667492999541889396&rtpof=true&sd=true), download spreadsheet
+- [Grant costing Exercise](https://drive.google.com/file/d/1Ec0odKQPRa9uAp0UQ81dSyFScoLBhO3N/view?usp=sharing), download pdf
 - Note taking breakout room 1
 - Note taking breakout room 2
 - Note taking breakout room 3
