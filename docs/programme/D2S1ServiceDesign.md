@@ -35,4 +35,5 @@ Additionally, participants have access to the Google-Slides so that they can upl
 - [My Service Empathy Map activity outputs](https://docs.google.com/presentation/d/1c8oUZzhBsnd6P37r56OW77N_lfonS74b0OK5-4fp_Nw/edit?usp=sharing)  
 
 ## Additional supporting material or further reading:
-[Take-home workshop resources](https://drive.google.com/drive/folders/12DZBUA-PvMfiaUt5N_NuWUBvvxSgCwJR?usp=sharing), including updated [resource guide](https://docs.google.com/document/d/19W3qojxSapripfmLmA6livXpHzqkJ3pKBf1jSYFKCgE/edit?usp=sharing).
+- Slides [(re)Designing your core service](https://drive.google.com/file/d/1NGPbrKm_TXdRai1cSx3vjAB_x0KILBrX/view?usp=sharing)
+- [Take-home workshop resources](https://drive.google.com/drive/folders/12DZBUA-PvMfiaUt5N_NuWUBvvxSgCwJR?usp=sharing), including updated [resource guide](https://docs.google.com/document/d/19W3qojxSapripfmLmA6livXpHzqkJ3pKBf1jSYFKCgE/edit?usp=sharing).
