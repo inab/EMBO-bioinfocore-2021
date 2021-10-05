@@ -45,10 +45,11 @@ Hello! I’m [Andrew](https://www.ebi.ac.uk/about/people/andrew-hercules) and I�
 <br style="clear:both" />
 
 ## Brent Richter
-### Partners HealthCare of Massachusetts General and Brigham and Women’s Hospitals, USA	[https://www.linkedin.com/in/bgrichter/](https://www.linkedin.com/in/bgrichter/)
+### Partners HealthCare of Massachusetts General and Brigham and Women’s Hospitals, USA
 
 <div style="width:150px; height: 150px; border-radius:50%; background-image:url({{'assets/images/profiles/BrentRichter.jpg' | relative_url}}); background-size: cover; background-repeat: no-repeat; background-position: center; float: left; margin: 15px 15px 15px 0px;"></div>
-
+[Brent Richter](https://www.linkedin.com/in/bgrichter/) is the Director of Enterprise Research IS (ERIS) and Consumer Technology Management (CTM) at Mass General Brigham (MGB).  Mr. Richter has brought to the role over 25 years’ experience working at the analytics interface of Healthcare and Life Science.  Beginning his career pioneering technologies for the Human Genome Project and as a scientist in molecular biology/population genetics at Harvard University, he then moved across the river and into Healthcare Innovation and Research, providing technology platforms and analytics to Massachusetts General and Brigham and Women’s Hospital Investigators. While at MGB,  Mr. Richter has advanced IS technology and platforms for the research and innovation communities and teamed within MGB Information Systems to streamline support and processes.  
+Mr. Richter did his undergraduate work in Biology and Philosophy at Boston College and Genetics at Harvard University and holds an MIT Sloan School of Management Certification in Technology Management.  He is a Senior Member of the International Society for Computational Biology (ISCB) and serves as a board member of the ISCB’s Community of Special Interest’s Bioinformatics Core Facilities.
 <br style="clear:both" />
 
 ## Cath Brooksbank
