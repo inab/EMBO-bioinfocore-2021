@@ -47,7 +47,7 @@ All times are Spain Time (CEST)
 | TIME CEST                | SESSION                                                                                         | TRAINER/S                                                             |
 |---------------------|-------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------|
 | 11.50 - 12.00       | _Day briefing_                                                                                    |                                                                       |
-| 12.00 - 13.00       | Costing up staff and compute requirements                                                       | Sarah Butcher                                                         |
+| 12.00 - 13.00       | [Costing up staff and compute requirements](D3S1CostingUpStaffCompute.md)                                                       | Sarah Butcher                                                         |
 | 13.00 - 14.00       | [Costing up a new service and providing costs <br> for major projects - practical](D3S2CostingUpServiceProjectPractical.md)                     | Sarah Butcher                                                         |
 | 14.00 - 15.20       | _Lunch break_                                                                                     |                                                                       |
 | 15.20 - 15.30       | _Settle back in_                                                                                  |                                                                       |
