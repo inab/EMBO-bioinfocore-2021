@@ -16,3 +16,6 @@ This talk will make you familiar with the direct costs incurred by a core facili
 
 ## What will the participant be doing?
 Participant will listen aspects of which will be further explored in the next practical session.
+
+## Resources
+- [The F words: Funding and Financing](https://drive.google.com/file/d/1J8uX5sj5OPCBbqIvtoBbEiBPwShsivxf/view?usp=sharing), slides
