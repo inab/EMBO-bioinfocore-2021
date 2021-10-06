@@ -34,5 +34,4 @@ When you return to the main room, each team will be asked to **report back in no
 - [Flying Fred Facility costing template](https://docs.google.com/spreadsheets/d/189KinUWXxTzW8AOHt1fQDSSsm-Y8gOYT/edit?usp=sharing&ouid=108667492999541889396&rtpof=true&sd=true), download spreadsheet
 - [Grant Costing exercise](https://drive.google.com/file/d/1Ec0odKQPRa9uAp0UQ81dSyFScoLBhO3N/view?usp=sharing), download pdf
 - [Grant Costing exercise - with sample notes](https://drive.google.com/file/d/14OHrvCPp1WqccVsJK_oADIIscT9Hg2KH/view?usp=sharing), download pdf
-- Note taking[room 1](https://docs.google.com/document/d/1FQX0tEEsi2PfE1NrUaba4t2QhVwc3S8FZdHPqQ9wFmw/edit?usp=sharing),[room 2](https://docs.google.com/document/d/1VLNGZCyZtc_79QIor5DGJWJG1Apxru092YeuUkgDTV0/edit?usp=sharing) and [room 3](https://docs.google.com/document/d/1OaDcG931wFpfsLIbOk-QYTXmC4F_4Y4etE4MWpuvfVw/edit?usp=sharing).
-- 
+- Note taking [room 1](https://docs.google.com/document/d/1FQX0tEEsi2PfE1NrUaba4t2QhVwc3S8FZdHPqQ9wFmw/edit?usp=sharing),[room 2](https://docs.google.com/document/d/1VLNGZCyZtc_79QIor5DGJWJG1Apxru092YeuUkgDTV0/edit?usp=sharing) and [room 3](https://docs.google.com/document/d/1OaDcG931wFpfsLIbOk-QYTXmC4F_4Y4etE4MWpuvfVw/edit?usp=sharing).
