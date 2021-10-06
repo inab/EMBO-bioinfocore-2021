@@ -26,5 +26,12 @@ parent: Programme
 - Reflect on their on the DM/DS experience and expertise of their own core facility.
 - Wrapping up with summarizing practical next steps participants can take when they _get home_ and challenging them to formulate their own next steps.
 
+## After-course exercise: What are the first 3 things you are going to do when you get home?
+A 6 minute exercise:
+- Write an e-mail to yourself, describing what you are going to do at home in the coming weeks to implement FAIR practice for your services.
+  -Include at least one action related to FAIR services and one action related to training & capacity building.
+- Address the e-mail to [rob.hooft at dtls.nl](mailto:rob.hooft@dtls.nl) (but written to yourself!)
+- We will send your mail to you in 3 months, reminding you of your own plans.
+
 ## Resources
 - [FAIR Data management and stewardship presentation](https://drive.google.com/file/d/1nJ0Mo0J83TrLPosqjwF30SLfVG5OxCZ1/view?usp=sharing), includes all slides, notes and links to external resources.
