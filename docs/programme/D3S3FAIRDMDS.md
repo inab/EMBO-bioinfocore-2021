@@ -25,3 +25,6 @@ parent: Programme
 - Listen to the presentations which will be interspersed with polling (using mentimeter).
 - Reflect on their on the DM/DS experience and expertise of their own core facility.
 - Wrapping up with summarizing practical next steps participants can take when they _get home_ and challenging them to formulate their own next steps.
+
+## Resources
+- [FAIR Data management and stewardship presentation](https://drive.google.com/file/d/1nJ0Mo0J83TrLPosqjwF30SLfVG5OxCZ1/view?usp=sharing), includes all slides, notes and links to external resources.
