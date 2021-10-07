@@ -23,4 +23,5 @@ The session will be organised in two parts:
 - Next, participants will form small teams and be provided with a few questions they have to answer and share. Lastly, the answers will be put in common, synthesised and discussed.
 
 ## Resources needed for the session
+- [Sustainability models slides](https://drive.google.com/file/d/1-Z1HfPjklj97eaYAAyOZShzQbgKZJKtQ/view?usp=sharing), downloadable pdf
 - [Collaborative spreadsheet](https://docs.google.com/spreadsheets/d/12b5V7KuAzRWzHVDOBhS9eM6hzlt738eYvuzDrR65jRU/edit?usp=sharing) to contribute and share participant's answers.
