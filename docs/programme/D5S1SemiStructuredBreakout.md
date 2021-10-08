@@ -20,5 +20,5 @@ This activity aim is to address topics of interest defined by participants that 
 
 ## Resources needed for the session
 - [Iterative topic list suggested by participants](https://docs.google.com/spreadsheets/d/1Tk9kTFO-FqGhJHR6xK1seX32vAwODBvzG1_XbvnMoqk/edit?usp=sharing) (come back to this list at the end of each training day)
-- Breakout common minutes
+- [Breakout common minutes](https://docs.google.com/document/d/1MtR5CTAFUxSccayl2M_cHuuSgtrd7MVqaAtKzXt-k5I/edit?usp=sharing)
 - Ready prepared materials
