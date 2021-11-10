@@ -22,5 +22,5 @@ This sesion aims to sharing participants' experiences in project and time manage
 Participant will share their first steps planning and/or applying the course contents in their daily management duties. Besides, they will present a tool or solution of their choice to address project and time management challenges in their bioinformatics core facility, focusing in the problems that the manager wants to solve and the process of choosing one or a set of tools for this purpose. 
 
 ## Resources needed for the session
-- [Progress slides](), fill your slide with your progress since the end of the course
+- [Progress slides](https://docs.google.com/presentation/d/15OjDroEHaVH5bX6ymGf23DU8kTnEGadLZLOZk2eio0k/edit#slide=id.g101133dd7ba_0_52), fill your slide with your progress since the end of the course
 - [Project and time management tools board](https://docs.google.com/presentation/d/1MdrwT8DrDy0lGaHbWC_xgKA7cLeUa_TO4BL618u3BiE/edit#slide=id.p), copy the template slide and add information about your tool/solution
