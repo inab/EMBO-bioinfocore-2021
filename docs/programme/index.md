@@ -80,6 +80,6 @@ All times are Spain Time (CEST)
 
 ## Post-course session | 17 November 2021
 
-| TIME CEST                | SESSION                                                                                         | TRAINER/S                                                             |
+| TIME CET                | SESSION                                                                                         | TRAINER/S                                                             |
 |---------------------|-------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------|
 | 16.00 - 18.00       | [Project and time management](D6PostCourseProjectTimeManagement)                                                            |    Salvador Capella-Gutierrez, Vera Matser, Andrew Hercules, Rob Hooft with course faculty members                                                                   |
