@@ -8,10 +8,11 @@ has_toc: false
 
 # Programme
 
-## How to connect to all the live sessions
-- **Use this [ZOOM LINK](https://rediris.zoom.us/j/89625617864?pwd=Mis3OThHa1V5NEFGSHVVQXU1eTJHQT09)**
-- _Zoom meeting ID:_ 896 2561 7864
-- _Zoom meeting passcode:_ 810919
+## How to connect to the post-course session
+- **Use this [ZOOM LINK](https://rediris.zoom.us/j/83009950933?pwd=Tlhsb2NQbFhqbGttOUU1aDFqNmFpZz09)**
+- _Zoom meeting ID:_ 830 0995 0933
+- _Zoom meeting passcode:_ 470970
+  
 
 All times are Spain Time (CEST)
 
@@ -81,4 +82,4 @@ All times are Spain Time (CEST)
 
 | TIME CEST                | SESSION                                                                                         | TRAINER/S                                                             |
 |---------------------|-------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------|
-| 16.00 - 18.00       | Selected topic by participants (TBD)                                                            |    TBD                                                                   |
+| 16.00 - 18.00       | [Project and time management](D6PostCourse.ProjectTimeManagement)                                                            |    Salvador Capella-Gutierrez, Vera Matser, Andrew Hercules, Rob Hooft with course faculty members                                                                   |
