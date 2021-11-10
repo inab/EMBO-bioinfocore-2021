@@ -6,7 +6,7 @@ parent: Programme
 ---
 
 # Post Course Session: Project and time management
-## Trainer: Salvador Capella-Gutierrez, Vera Matser, Eva Alloza, Rob Hooft with course faculty members
+## Trainer: Salvador Capella-Gutierrez, Vera Matser, Andrew Hercules, Rob Hooft with course faculty members
 
 ## Goals
 This sesion aims to sharing participants' experiences in project and time management, as well as on their first steps on applying this course .
