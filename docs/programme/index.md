@@ -82,4 +82,4 @@ All times are Spain Time (CEST)
 
 | TIME CEST                | SESSION                                                                                         | TRAINER/S                                                             |
 |---------------------|-------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------|
-| 16.00 - 18.00       | [Project and time management](D6PostCourse.ProjectTimeManagement)                                                            |    Salvador Capella-Gutierrez, Vera Matser, Andrew Hercules, Rob Hooft with course faculty members                                                                   |
+| 16.00 - 18.00       | [Project and time management](D6PostCourseProjectTimeManagement)                                                            |    Salvador Capella-Gutierrez, Vera Matser, Andrew Hercules, Rob Hooft with course faculty members                                                                   |
