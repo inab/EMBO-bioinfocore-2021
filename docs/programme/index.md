@@ -8,12 +8,6 @@ has_toc: false
 
 # Programme
 
-## How to connect to the post-course session
-- **Use this [ZOOM LINK](https://rediris.zoom.us/j/83009950933?pwd=Tlhsb2NQbFhqbGttOUU1aDFqNmFpZz09)**
-- _Zoom meeting ID:_ 830 0995 0933
-- _Zoom meeting passcode:_ 470970
-  
-
 All times are Spain Time (CEST)
 
 ## Day 1 | 4 October 2021
@@ -56,7 +50,7 @@ All times are Spain Time (CEST)
 | 16.30 - 17.30       | [Open discussion: strategies to manage your data <br> from a logical and physical perspective](D3S4panelDM)         | Rob Hooft, Michael Stadler, Ezgi Karaca and Jordi Rambla              |
 
 
-## DAY 4 | 7 October 2021
+## Day 4 | 7 October 2021
 
 | TIME CEST                | SESSION                                                                                         | TRAINER/S                                                             |
 |---------------------|-------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------|
