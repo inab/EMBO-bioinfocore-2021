@@ -6,7 +6,7 @@ parent: Programme
 ---
 
 # Post Course Session: Project and time management
-### Wednesday, November 17, 16:00-18:00h CET in [Zoom link](https://rediris.zoom.us/j/83009950933?pwd=Tlhsb2NQbFhqbGttOUU1aDFqNmFpZz09)
+### Wednesday, November 17, 16:00-18:00h CET in Zoom
 ## Trainer: Salvador Capella-Gutierrez, Vera Matser, Andrew Hercules, Rob Hooft with course faculty members
 
 ## Goals
